@@ -1,0 +1,33 @@
+{
+ "key": "UQVVKC6F",
+ "title": "The Circularity of Consent in the DMA: A Close Look into the Prejudiced Substance of Articles 5(2) and 6(10)",
+ "short_label": "Ribera Martínez 2022",
+ "year": 2022,
+ "doi": "10.2139/ssrn.4643462",
+ "oa": "W7171756238",
+ "s2": "4fa6a305b0ee28483f022bed161939b6bb1be1d1",
+ "cites": 3,
+ "oa_refs": [
+  "W964600994",
+  "W1588523142",
+  "W2089502205",
+  "W2105051581",
+  "W2148283815",
+  "W2256672636",
+  "W2481365267",
+  "W2772971113",
+  "W2921661394",
+  "W2989626447",
+  "W3121242664",
+  "W3121662266",
+  "W3122759458",
+  "W4248888340",
+  "W4296142908",
+  "W6679548405",
+  "W7006498358"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Year mismatch: task says 2022, OpenAlex and Semantic Scholar both list 2023 for the same DOI (SSRN 4643462). Title search returned no candidates in either source; both IDs resolved via DOI and match on title and first author. Type preprint; no journal version checked. | S2 reference list null (publisher elided)",
+ "oa_title": "The Circularity of Consent in the DMA: A Close Look into the Prejudiced Substance of Articles 5(2) and 6(10)"
+}

@@ -1,0 +1,34 @@
+{
+ "key": "7IVHJJK6",
+ "title": "Towards Smarter Regulation in the Areas of Competition, Data Protection and Consumer Law: Why Greater Power Should Come with Greater Responsibility",
+ "short_label": "Graef 2021",
+ "year": 2021,
+ "doi": "10.1017/err.2020.92",
+ "oa": "W3106074591",
+ "s2": "2ba86ca5dc77c85631530027e88256df17ff17f3",
+ "cites": 46,
+ "oa_refs": [
+  "W2520994553",
+  "W2792973028",
+  "W2968068287",
+  "W3010973855",
+  "W3012768098",
+  "W3123528728",
+  "W3125240503",
+  "W3125256437",
+  "W3126113237"
+ ],
+ "s2_refs": [
+  "0654a477121f39c010309c08ad78d5e44e4cd2e5",
+  "0bb49f83678256e214169b28cc7d332e04e53b19",
+  "260b8562e901300b8ccfc5a6fbfd31e5bb7dca98",
+  "3a79de0c34ab3c6f19a4f49aa80abbe958feca70",
+  "51269f3aba0a84777330c4e1742e457eb34184af",
+  "525d19e4b798baf174c5fdd45dc4d80daf71d206",
+  "f64111e335263ab92e0be175df0d642b818bc76e"
+ ],
+ "doubtful": false,
+ "notes": "Year mismatch: record says 2021, OpenAlex and Semantic Scholar both list 2020 (online-first vs print). DOI, title and first author (Graef) match in both sources; accepted.",
+ "oa_title": "Towards Smarter Regulation in the Areas of Competition, Data Protection and Consumer Law: Why Greater Power Should Come with Greater Responsibility",
+ "abstract": "Based on a mix of conceptual insights and findings from cases, this paper discusses three ways in which the effectiveness of regulation in the areas of competition, data and consumer protection can be improved by tailoring substantive protections and enforcement mechanisms to the extent of market power held by firms. First, it is analysed how market power can be integrated into the substantive scope of protection of data protection and consumer law, drawing inspiration from competition law’s special responsibility for dominant firms. Second, it is illustrated how more asymmetric and smarter enforcement of existing data protection rules against firms possessing market power can strengthen the protection of data subjects and stimulate competition based on lessons from priority-setting and cooperation by consumer authorities. Third, it is explored how competition law’s special responsibility for dominant firms can be further strengthened in analogy with the principle of accountability in data protection law. Similarly, it is discussed how positive duties to ensure fair outcomes for consumers are developed in consumer law. The analysis offers lessons for improving the ability of the three regimes to protect consumers by imposing greater responsibility on firms with greater market power and thus posing greater risks for consumer harm."
+}

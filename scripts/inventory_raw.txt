@@ -1,0 +1,57 @@
+2SKW9WWF|conferencePaper|2026|Lawo, Dennis; Berkholz, Jenny; Stevens, Gunnar|Reframing Privacy Through Power: A Relational Power Framework of Privacy for HCI Research
+9I4757G9|journalArticle|2022|van der Vlist, Fernando N.; Helmond, Anne; Burkhardt, Marcus; Seitz, Tatjana|API Governance: The Case of Facebook’s Evolution
+R92FC6FK|journalArticle|2026|Negri-Ribalta, Claudia; Visescu, Ioana; Frank, Muriel-Larissa; Sergeeva, Anastasia; Simon, Alberto García; Noel, Rene; Chamorro, Lorena Sánchez|Global Miscommunication in Privacy Requirements Engineering: Legal Experts’ Experiences Collaborating with Software Engineers
+H79URSEL|journalArticle|2026|Mertens, Gilles; Bielova, Nataliia; Roca, Vincent; Bouhoula, Ahmed; Akassab, Marouanne|Detecting and Measuring Client- and Server-Side Google Tag Manager and its Tags in 80K Websites
+5QRTRGAB|conferencePaper|2026|Mason, Shandler A.; Kuttal, Sandeep Kaur|Equity by Design: A New HCI Method for Surfacing Inclusivity Issues in Remote Collaboration Software
+6A99P4RN|book|2022|Bennett, Michael; Brouwer, Huub; Claassen, Rutger|Wealth and Power: Philosophical Perspectives
+JYJHQNVL|journalArticle|2025|Riedl, Martin J; El-Masri, Azza; Trauthig, Inga K; Woolley, Samuel C|Infrastructural platform violence: How women and queer journalists and activists in Lebanon experience abuse on WhatsApp
+VYK85GQ5|journalArticle|2021|Li, Zi; Nardi, Bonnie|"There Should Be More Than One Voice in A Healthy Society": Infrastructural Violence and Totalitarian Computing in China
+7IKL5L9G|conferencePaper|2025|Nouwens, Midas; Kristensen, Janus Bager; Maalt, Kristjan; Bagge, Rolf|A Cross-Country Analysis of GDPR Cookie Banners and Flexible Methods For Scraping Them
+XWJSNKTV|preprint|2025|Lyu, Yao; Cai, Jie; Carroll, John M.|A Systematic Literature Review of Infrastructure Studies in SIGCHI
+JAEVYMHV|preprint|2025|Gilbert, Eric|Capital and CHI: Technological Capture and How It Structures CHI Research
+2VEJN9QH|preprint|2017|Lynskey, Orla|Regulating 'Platform Power'
+YLKCBJ9E|journalArticle|2023|Marjanov, Tina; Konstantinou, Maria; Jóźwiak, Magdalena; Spagnuelo, Dayana|Data Security on the Ground: Investigating Technical and Legal Requirements under the GDPR
+L59TFMJX|conferencePaper|2026|Weinberger, Lydia; Lämmle, Carolin; Hammer, Andreas; Eichenmüller, Christian; Gassmann, Freya; Benenson, Zinaida|“Technically speaking I’m at the top of the hierarchy”: How System Administrators Think About Power
+5SFWEQ3K|journalArticle|1999|Star, Susan Leigh|The Ethnography of Infrastructure
+8C6EFGVM|journalArticle|2009|Avelino, Flor; Rotmans, Jan|Power in Transition: An Interdisciplinary Framework to Study Power in Relation to Structural Change
+CD35LPMH|journalArticle|2019|Lynskey, Orla|Grappling with “Data Power”: Normative Nudges from Data Protection and Privacy
+7IVHJJK6|journalArticle|2021|Graef, Inge; van Berlo, Sean|Towards Smarter Regulation in the Areas of Competition, Data Protection and Consumer Law: Why Greater Power Should Come with Greater Responsibility
+MWCFJ27J|journalArticle|2021|Avelino, Flor|Theories of power and social change. Power contestations and their implications for research on social change and innovation
+UQVVKC6F|preprint|2022|Ribera Martínez, Alba|The Circularity of Consent in the DMA: A Close Look into the Prejudiced Substance of Articles 5(2) and 6(10)
+3ZVQLBHB|conferencePaper|2023|Cobbe, Jennifer; Veale, Michael; Singh, Jatinder|Understanding accountability in algorithmic supply chains
+R3EJISTM|journalArticle|2026|Graef, Inge; Bostoen, Friso|A typology of platform power and its regulation
+5BLN39K9|journalArticle|2020|Richards, Neil; Hartzog, Woodrow|A Relational Turn for Data Protection?
+8UBSED2J|journalArticle||Emerson, Richard M.|Power-Dependence Relations
+UGKPBJGY|journalArticle|2026|van Gend, Thijmen; Bertulfo, Donald Jay; Gürses, Seda|The PET Paradox: How Amazon Instrumentalises PETs in Sidewalk to Entrench Its Infrastructural Power
+GF58GYBB|journalArticle|2026|Bertulfo, Donald Jay; Gürses, Seda|Engineering infrastructural power over software production: the case of software-as-a-service
+RWYVRZCP|journalArticle||Terzis, Petros; Mittal, Anushka; van Hoboken, Joris|The Many Shades of Clouds: How Law Fails (Us) in Seeing Power in the Digital Economy
+533IQCYR|journalArticle|2019|van Dijck, José; Nieborg, David; Poell, Thomas|Reframing platform power
+3UC8JF9C|journalArticle|2021|van der Vlist, Fernando N; Helmond, Anne|How partners mediate platform power: Mapping business and data partnerships in the social media ecosystem
+VSXUMV4K|journalArticle|2023|Flensburg, Sofie; Lai, Signe Sophus|Follow the Data! A Strategy for Tracing Infrastructural Power
+TFMG6CFR|webpage|||Dynamics of Corporate Governance Beyond Ownership in AI
+UWDEECCC|journalArticle|2022|Rikap, Cecilia; Lundvall, Bengt-Åke|Big tech, knowledge predation and the implications for development
+WH88RAQI|blogPost|2025|Meta|Messaging Interoperability: WhatsApp enables third-party chats for users in Europe
+N8JCSANG|journalArticle||Burkhardt, Marcus|Mapping the Democratization of AI on GitHub
+NR6PE48S|journalArticle|2020|Partin, William Clyde|Bit by (Twitch) Bit: “Platform Capture” and the Evolution of Digital Platforms
+EMQH8QJG|journalArticle|2023|Luchs, Inga; Apprich, Clemens; Broersma, Marcel|Learning machine learning: On the political economy of big tech's online AI courses
+8KJ28NNB|journalArticle|2024|van der Vlist, Fernando; Helmond, Anne; Ferrari, Fabian|Big AI: Cloud infrastructure dependence and the industrialisation of artificial intelligence
+JKE2I2YF|attachment|2022|Ada Lovelace Institute|Rethinking data and rebalancing digital power
+K7CKL63N|conferencePaper|2025|de Troya, Íñigo; Kernahan, Jacqueline; Doorn, Neelke; Dignum, Virginia; Dobbe, Roel|Misabstraction in Sociotechnical Systems
+U66YSF3L|journalArticle|2024|Sharon, Tamar; Gellert, Raphaël|Regulating Big Tech expansionism? Sphere transgressions and the limits of Europe’s digital regulatory strategy
+Y245QIIB|journalArticle|2001|Solove, Daniel J.|Privacy and Power: Computer Databases and Metaphors for Information Privacy
+5HSC3YEN|book|2022|Aradau, Claudia; Blanke, Tobias|Algorithmic Reason: The New Government of Self and Other
+SI2UUXBS|book|2004|Lukes, Steven|Power: A Radical View
+YFAWQ44C|journalArticle|2023|Castells, Manuel|The Network Society Revisited
+H8WRWJQZ|journalArticle||Abu Elyounes, Doaa|“Computer Says No!”: The Impact of Automation on the Discretionary Power of Public Officers
+MRHT6VVC|journalArticle|2019|Couldry, Nick; Mejias, Ulises A.|Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject
+B26F5G5M|bookSection|2020|D'Ignazio, Catherine; Klein, Lauren|The Power Chapter (Data Feminism, ch. 1)
+QY5YFM67|thesis|2026|Van Rosmalen, Gabriël Lucas Hendrik|Power imbalance between digital labour platforms and platform workers: How can competition law respond?
+LDVMWKLZ|journalArticle|1999|Star, Susan Leigh|The Ethnography of Infrastructure
+AJSQSCMV|bookSection|2016|Beer, David|Introducing Metric Power
+ZVAAR6UE|journalArticle|1997|Emirbayer, Mustafa|Manifesto for a Relational Sociology
+ZDKPD64T|journalArticle|2024|Nieborg, David; Poell, Thomas; Caplan, Robyn; van Dijck, José|Introduction to the special issue on Locating and theorising platform power
+9HUCHXK2|book|2018|Bucher, Taina|If...Then: Algorithmic Power and Politics
+WLBGFS8J|book|2017|Cheney-Lippold, John|We Are Data: Algorithms and the Making of Our Digital Selves
+5RKX9NU3|journalArticle|2020|Culpepper, Pepper D.; Thelen, Kathleen|Are We All Amazon Primed? Consumers and the Politics of Platform Power
+ASUH772N|journalArticle|2024|Lomborg, Stine; Sick, Kristian; Flensburg, Sofie; Sophus Lai, Signe|Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication
+5X5HD2ZQ|journalArticle|2024|Luitse, Dieuwertje|Platform power in AI: The evolution of cloud infrastructures in the political economy of artificial intelligence

@@ -1,0 +1,18 @@
+{
+ "key": "SI2UUXBS",
+ "title": "Power: A Radical View",
+ "short_label": "Lukes 2004",
+ "year": 2004,
+ "doi": null,
+ "oa": "W1966138051",
+ "s2": null,
+ "cites": 6730,
+ "oa_refs": [
+  "W160346391"
+ ],
+ "s2_refs": [],
+ "doubtful": true,
+ "notes": "OpenAlex W1966138051 is the 1974 first edition record (typed as article, DOI 10.15388/polit.1993.3.8), used because no 2004 second edition record exists in OpenAlex; year mismatch 1974 vs 2004. Rejected OpenAlex: W3130512934 (1980 book review), W1901757866 (2005 Piper), W1992045521 (1976 critique), W4387069098 (2022 Marzano). No Semantic Scholar match: the only candidate cc585ee8 is Townshend 2007, a different work, so S2 ID omitted.",
+ "oa_title": "Power: A Radical View",
+ "abstract": "This chapter presents a conceptual analysis of power. In it I shall argue for a view of power (that is, a way of identifying it) which is radical in both the theoretical and political senses (and I take these senses in this context to be intimately related). The view I shall defend is, I shall suggest, ineradicably evaluative and ‘essentially contested’ (Gallie 1955–6) 1 on the one hand; and empirically applicable on the other. I shall try to show why this view is superior to alternative views. I shall further defend its evaluative and contested character as no defect, and I shall argue that it is ‘operational’, that is, empirically useful in that hypotheses can be framed in terms of it that are in principle verifiable and falsifiable (despite currently canvassed arguments to the contrary). And I shall even give examples of such hypotheses — some of which I shall go so far as to claim to be true. These keywords were added by machine and not by the authors. This process is experimental and the keywords may be updated as the learning algorithm improves."
+}

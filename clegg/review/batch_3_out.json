@@ -1,0 +1,227 @@
+[
+ {
+  "key": "A53ESNU5",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780029096505",
+  "edition_year": 1975,
+  "original_year": null,
+  "note": "Auto DOI 10.2307/2390950 is a 1962 ASQ article, not the book: dropped. ISBN is the 1975 Free Press edition of this work (no 1961 edition in Open Library)."
+ },
+ {
+  "key": "DDTUZF82",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is an extract in another book; auto ISBN is Collected Works vol. 22 (1987), wrong volume. Vol. 4 (1975 Lawrence & Wishart) not found."
+ },
+ {
+  "key": "EWWIER9E",
+  "status": "corrected",
+  "doi": "10.1093/aristotelian/54.1.1",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Zotero DOI verified: Emmet, 'The Concept of Power', Proc. Aristotelian Soc. vol. 54 (1953-54) presidential address. Auto DOI is an unrelated 2005 article."
+ },
+ {
+  "key": "9AFW3ZWJ",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780631196709",
+  "edition_year": 1983,
+  "original_year": null,
+  "note": "Open Library Blackwell 1983 edition of The Court Society (Jephcott transl.). Auto DOI is an unrelated ICJ volume, rejected."
+ },
+ {
+  "key": "DLCP4PJU",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "No Open Library edition for Eldridge, Max Weber (Nelson 1972). Auto DOI is Brennan 2020, a different book."
+ },
+ {
+  "key": "JGB3JRLV",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780465014125",
+  "edition_year": 1979,
+  "original_year": null,
+  "note": "Open Library Basic Books 1979 edition matches zotero_year. Auto DOI is a 1980 Contemporary Sociology review, rejected."
+ },
+ {
+  "key": "3WVJF3VP",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Open Library has the work but no ISBN for the 1983 Secker edition. 1985 Random House reprint (9780517448427) has no author in its record, not used. Auto DOI is a 1994 article."
+ },
+ {
+  "key": "3BM9HSIG",
+  "status": "confirmed",
+  "doi": "10.1007/978-1-349-17729-5",
+  "isbn": null,
+  "edition_year": 1984,
+  "original_year": null,
+  "note": "Crossref book record for this work, Macmillan 1984 edition. Not the Free Press 1964 edition, which was not found in Open Library."
+ },
+ {
+  "key": "Y6HXYD8M",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "PUF 1962 edition not in Open Library. Auto DOI is a 1963 review, rejected. OL ISBNs are the 1968 Arnold English translation, not used."
+ },
+ {
+  "key": "BUFWAKV8",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780810103979",
+  "edition_year": 1973,
+  "original_year": null,
+  "note": "Open Library Northwestern 1973 Speech and Phenomena (Allison transl.). Auto DOI is a 2010 Derrida Dictionary entry, rejected. Alt 9780810105904 is also 1973."
+ },
+ {
+  "key": "X7FEH86S",
+  "status": "confirmed",
+  "doi": "10.1163/9789004326309",
+  "isbn": null,
+  "edition_year": 2016,
+  "original_year": null,
+  "note": "Crossref monograph by Davidson, Brill 2016 reprint of the 1977 Merlin book. Title shortened in Crossref."
+ },
+ {
+  "key": "KL3WDVMN",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 1988 Contemporary Sociology review, rejected. No Open Library edition found for Daudi 1986."
+ },
+ {
+  "key": "RLQXWPVF",
+  "status": "confirmed",
+  "doi": "10.1177/001139217202000204",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Current Sociology 1972 article; DOI matches Zotero DOI, journal and year. Crossref spells author Leif."
+ },
+ {
+  "key": "PJB6HAKY",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 1990 Giddens review, rejected. Layder 1987 article not in Crossref. Current Perspectives front matter DOI is not the article."
+ },
+ {
+  "key": "AHAK7UYG",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710208026",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI is a 2017 Routledge chapter on Portuguese India, rejected. ISBN is the 1986 Power, Action and Belief volume. Its 1984 Sociological Review original (10.1111/j.1467-954x.1984.tb00114.x) is not this chapter."
+ },
+ {
+  "key": "Y222Y35P",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710208026",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI is a 2005 'Introduction' in an unrelated Routledge book, rejected. ISBN is the 1986 Power, Action and Belief volume."
+ },
+ {
+  "key": "L2HH9KAC",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780631169420",
+  "edition_year": 1988,
+  "original_year": null,
+  "note": "Auto DOI is a Japanese farm chapter in another book, rejected. ISBN is the 1988 Blackwell Europe and the Rise of Capitalism (Hall ed.)."
+ },
+ {
+  "key": "ESNXJLJC",
+  "status": "confirmed",
+  "doi": "10.4324/9780203130070",
+  "isbn": "9780203130070",
+  "edition_year": 2002,
+  "original_year": null,
+  "note": "Crossref monograph is the 2002 Routledge reprint of Laslett. 1965 Methuen not found. Zotero 'further explored' is the 1983 title."
+ },
+ {
+  "key": "IH4L95RK",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 2015 article about Laclau, not the 1983 CJPST piece. The 1983 article is not in Crossref or OpenAlex."
+ },
+ {
+  "key": "D4FWGIAH",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 2024 International Affairs article, rejected. 1980 Screen Education piece not in Crossref or OpenAlex."
+ },
+ {
+  "key": "68JRAY7K",
+  "status": "confirmed",
+  "doi": "10.1080/03085147500000002",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Economy and Society 1975 DOI matches Zotero DOI, title, journal and year. Crossref author list shows Nash & Rich, so check the author in Zotero."
+ },
+ {
+  "key": "ASA7WHFP",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780816612710",
+  "edition_year": 1984,
+  "original_year": null,
+  "note": "Auto DOI is a Bloomsbury Foucault chapter, rejected. ISBN is the 1984 Minnesota The Structural Allegory. Chapter itself not listed in Crossref."
+ },
+ {
+  "key": "LGDEA3WJ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Unpublished manuscript. No Crossref or Open Library match. Auto DOI is an unrelated 2011 Palgrave chapter."
+ },
+ {
+  "key": "SJ83HQRZ",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780566008856",
+  "edition_year": 1985,
+  "original_year": null,
+  "note": "Auto DOI is a 2016 Toronto chapter 'Redesigning Work', a different book, rejected. ISBN is the 1985 Gower edition of Job redesign."
+ },
+ {
+  "key": "BCS9ITNP",
+  "status": "confirmed",
+  "doi": "10.4324/9781315471372",
+  "isbn": "9780333134306",
+  "edition_year": 1972,
+  "original_year": null,
+  "note": "Crossref book is the 2016 Routledge Revivals reprint of Johnson 1972. ISBN is the 1972 Macmillan edition."
+ }
+]

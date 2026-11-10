@@ -1,0 +1,227 @@
+[
+ {
+  "key": "F9WYF7N3",
+  "status": "confirmed",
+  "doi": "10.1017/cbo9780511598302",
+  "isbn": "9780521303491",
+  "edition_year": 1985,
+  "original_year": null,
+  "note": "Alford & Friedland, Powers of Theory (CUP 1985); DOI record is the monograph; ISBN verified in Open Library. Zotero item is a bare webpage with no authors."
+ },
+ {
+  "key": "48N5P9EB",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780902308121",
+  "edition_year": 1971,
+  "original_year": null,
+  "note": "Auto DOI is an Isis review of a different 1991 Althusser volume, rejected. Althusser, Lenin and Philosophy (NLB 1971) ISBN verified. Zotero author should be Althusser (Brewster is translator)."
+ },
+ {
+  "key": "HJ9VVIYC",
+  "status": "corrected",
+  "doi": "10.2307/1952796",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Bachrach & Baratz 1962 APSR 'Two Faces of Power' (JSTOR DOI, same year). Auto DOI was the 2017 Routledge anthology reprint, rejected."
+ },
+ {
+  "key": "V4USIPDB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Baechler, The Origins of Capitalism (Blackwell 1975): no DOI/ISBN in Crossref/OpenAlex/Open Library. Auto DOI is an unrelated 2010 chapter in Capitalism Reassessed, rejected."
+ },
+ {
+  "key": "KXNNLW7L",
+  "status": "not_a_reference",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Zotero item is Baratz's 1977 AJS book review of Nagel and Lukes, not a cited work; auto DOI is that review. Clegg probably cites the Nagel and Lukes books instead."
+ },
+ {
+  "key": "6U5Z4W7R",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Barbalet 1987 'Power, structural resources and agency' (Current Perspectives in Social Theory) not in Crossref or OpenAlex. Auto DOI is Bell 2012, unrelated, rejected."
+ },
+ {
+  "key": "PXB4NLDQ",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780566008856",
+  "edition_year": 1985,
+  "original_year": null,
+  "note": "Chapter DOI from auto was 'New Technology and Neo-Fordism' in a different Palgrave book, rejected. No chapter DOI found. Job Redesign (Gower 1985) ISBN verified."
+ },
+ {
+  "key": "NGLSLCVR",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780702210372",
+  "edition_year": 1977,
+  "original_year": null,
+  "note": "Auto DOI is a 1979 World Literature Today review of this anthology, rejected. The Cantrell (ed.) anthology UQP 1977 ISBN verified. Zotero lists Cantrell as author; likely editor."
+ },
+ {
+  "key": "CBSUQEZC",
+  "status": "confirmed",
+  "doi": "10.1007/978-1-349-07408-2",
+  "isbn": null,
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Callon, Law and Rip (eds), Mapping the Dynamics of Science and Technology (Macmillan 1986); Crossref book record matches. No ISBN verified."
+ },
+ {
+  "key": "S45YEINT",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9781317652601",
+  "edition_year": 2014,
+  "original_year": 1981,
+  "note": "Auto DOI is an unrelated 2016 OUP chapter. The 2014 Taylor & Francis reprint of Advances in Social Theory and Methodology (ISBN verified) is the only verified edition; original 1981 RKP ISBN not found. The 2014 reprint chapter DOI 10.4324/9781315763880-22 is a later anthology reprint, rejected."
+ },
+ {
+  "key": "UFNAQVIN",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710208026",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Power, Action and Belief (RKP 1986, ed. Law) ISBN verified. Auto DOI is a chapter of the Mapping volume, rejected. No DOI for the 1986 chapter; 1984 Sociological Review DOI is a different year. Zotero lists Law as co-author; Law is editor."
+ },
+ {
+  "key": "DPC84RG7",
+  "status": "confirmed",
+  "doi": "10.1007/978-94-009-9109-5_8",
+  "isbn": "9789027711755",
+  "edition_year": 1981,
+  "original_year": null,
+  "note": "Chapter in Sociology of the Sciences Yearbook vol 4 (Springer/Reidel); Crossref title and year match. Open Library dates the containing volume 1981 (Zotero 1980)."
+ },
+ {
+  "key": "MFSLQ9PE",
+  "status": "confirmed",
+  "doi": "10.1093/past/97.1.16",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Brenner 1982, Past and Present 97; Crossref title and year match the article."
+ },
+ {
+  "key": "849AD27E",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780853453406",
+  "edition_year": 1975,
+  "original_year": null,
+  "note": "Auto DOI is a 1976 Contemporary Sociology review, rejected. Monthly Review Press 1975 (London) ISBN verified; no 1974 edition ISBN found."
+ },
+ {
+  "key": "L692C4AS",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710096098",
+  "edition_year": 1985,
+  "original_year": null,
+  "note": "Auto DOI is a 1985 MLN review, rejected. Routledge/RKP ISBN for the English Distinction verified; Open Library dates it 1985 (book first published 1984)."
+ },
+ {
+  "key": "VRCU8PBX",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780855277062",
+  "edition_year": 1979,
+  "original_year": null,
+  "note": "Auto DOI is a 2010 Routledge reprint, rejected. Issues in Marxist Philosophy (Harvester 1979) ISBN verified; the set volume containing the chapter is unconfirmed. The 1978 JTSB article is an earlier version, not the cited chapter."
+ },
+ {
+  "key": "WJ6AQQMV",
+  "status": "confirmed",
+  "doi": "10.1111/j.1467-954x.1986.tb02694.x",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Betts 1986, Sociological Review; Crossref confirms. Crossref title is 'The Conditions of Action, Power and the Problem of Interests' (Zotero title is shorter)."
+ },
+ {
+  "key": "9JSR6RAT",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780029783603",
+  "edition_year": 1971,
+  "original_year": null,
+  "note": "Auto DOI is a 2018 Routledge reprint of the chapter, rejected. Knowledge and Control (Collier-Macmillan 1971, ed. Young) ISBN with exact title verified; the other candidate ISBN is a Pan Macmillan record."
+ },
+ {
+  "key": "EISXVUNP",
+  "status": "confirmed",
+  "doi": "10.1007/978-1-349-86056-2_2",
+  "isbn": "9780520049338",
+  "edition_year": 1982,
+  "original_year": null,
+  "note": "Dallmayr chapter in Profiles and Critiques in Social Theory (Macmillan 1982); Crossref title is 'The Theory of Structuration: a Critique' (no 'rejoinder' in title). ISBN is the UC Press 1982 edition of the containing book."
+ },
+ {
+  "key": "NJ42TZVE",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780814750308",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI is a 2017 Routledge reprint in Leadership Perspectives, rejected. Lukes (ed.), Power (NYU Press 1986) ISBN verified; Blackwell 1986 ISBN not found. Dahl is the chapter author, Lukes the editor."
+ },
+ {
+  "key": "EKXVAZ3R",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780140806090",
+  "edition_year": 1976,
+  "original_year": null,
+  "note": "Auto DOI is a 2009 Princeton reprint, rejected. Decisions, Organizations and Society (Penguin/OU) ISBN verified, but Open Library lists it as 1971 in one record and 1976 in another; 1976 used here. The 1958 APSR article (10.2307/1952327) is the original text, not the 1971 chapter."
+ },
+ {
+  "key": "ULEQPAF5",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780028661520",
+  "edition_year": 1968,
+  "original_year": null,
+  "note": "Auto DOI is an unrelated German economics chapter, rejected. ISBN is the 1968 Macmillan International Encyclopaedia of the Social Sciences record; it may be set-level, volume 12 not verified."
+ },
+ {
+  "key": "9NEAIDBZ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Dahl, Who Governs? (Yale 1961): Open Library has the work but no ISBN; auto DOI is a 1962 review, rejected."
+ },
+ {
+  "key": "T6N8JRV4",
+  "status": "confirmed",
+  "doi": "10.1002/bs.3830020303",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Dahl 1957, Behavioral Science 2(3); DOI matches the original article. Crossref year 2007 is the Wiley backfile registration."
+ },
+ {
+  "key": "JF7EI7AG",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780130733047",
+  "edition_year": 1963,
+  "original_year": null,
+  "note": "Auto DOI is a 1965 OR review, rejected. Cyert and March, A Behavioral Theory of the Firm (Prentice-Hall 1963) ISBN verified."
+ }
+]

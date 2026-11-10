@@ -1,0 +1,227 @@
+[
+ {
+  "key": "MU9WL97S",
+  "status": "confirmed",
+  "doi": "10.1017/cbo9780511557699.006",
+  "isbn": "9780521261975",
+  "edition_year": 1989,
+  "original_year": null,
+  "note": "Crossref chapter DOI, Jessop 1989 in Social Theory of Modern Societies (CUP); book ISBN from Crossref print list; Zotero says 1987, type manuscript"
+ },
+ {
+  "key": "P7SP4GDA",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Only DOI is Academy of Management book review of Pennings & Buitendam (1987); reviews rejected; no article DOI"
+ },
+ {
+  "key": "QTUTZSXF",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780807840337",
+  "edition_year": 1969,
+  "original_year": 1953,
+  "note": "Auto DOI 10.2307/1054177 is a 1954 Southern Economic Journal review, rejected; OL UNC Press 1969 edition of Community Power Structure"
+ },
+ {
+  "key": "NV9C7V4U",
+  "status": "confirmed",
+  "doi": "10.1093/owc/9780199549900.001.0001",
+  "isbn": "9780199549900",
+  "edition_year": 2008,
+  "original_year": 1748,
+  "note": "OUP 2008 (Millican) edition record, same title/author; no 1902 Clarendon edition found"
+ },
+ {
+  "key": "TTPY6S7J",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI 10.4324/9781315817309-13 is a 2014 reprint titled Empowerment and repression, rejected; no ISBN for Hoy 1986 Blackwell in Open Library"
+ },
+ {
+  "key": "HZ3IQMTQ",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710207463",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI 10.1007/978-1-349-26616-6_8 is an unrelated 1998 Palgrave chapter, rejected; RKP 1986 edition ISBN verified in Open Library"
+ },
+ {
+  "key": "64WN47QE",
+  "status": "confirmed",
+  "doi": "10.4159/harvard.9780674497900",
+  "isbn": "9780710087119",
+  "edition_year": 1978,
+  "original_year": 1976,
+  "note": "Crossref edited-book record (Harvard 1976) matches title/author; ISBN is RKP 1978 edition matching Zotero publisher and year"
+ },
+ {
+  "key": "4RG5HBMP",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780882752839",
+  "edition_year": 1975,
+  "original_year": 1968,
+  "note": "Auto DOI 10.1515/9783110821796 is a mineralogy handbook, rejected; Krieger 1975 reprint of Cheyette ed. Lordship and community (Hintze chapter), 1968 original"
+ },
+ {
+  "key": "AVL9PMWV",
+  "status": "confirmed",
+  "doi": "10.1515/9783110874136-007",
+  "isbn": "9783110874136",
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref chapter record, De Gruyter volume; Crossref year 1990 vs Zotero 1989; ISBN is the volume's electronic ISBN from Crossref"
+ },
+ {
+  "key": "N9ZZCLZF",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780043012345",
+  "edition_year": 1987,
+  "original_year": 1987,
+  "note": "Auto DOI 10.4324/9781315823935-9 is a 2014 Routledge reprint chapter, rejected; Open Library 1987 Allen & Unwin edition (publisher field blank in OL)"
+ },
+ {
+  "key": "BLPJSXB8",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710208026",
+  "edition_year": 1986,
+  "original_year": 1986,
+  "note": "Auto DOI 10.4324/9781315249032-17 is a 2017 Routledge reprint chapter, rejected; Open Library RKP 1986 Power, action and belief"
+ },
+ {
+  "key": "XHBU3G7K",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780415810845",
+  "edition_year": 2012,
+  "original_year": 1976,
+  "note": "Auto DOI 10.1163/... is an unrelated Brill chapter, rejected; Routledge Revivals 2012 reprint of Higley & Field Elitism (1976 original); no 1976 edition found"
+ },
+ {
+  "key": "8UY98FWL",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": 1982,
+  "note": "Auto DOI 10.1057/9781137319944 is about Limits to Capital in Spain, rejected; no Open Library edition of Harvey 1982 found"
+ },
+ {
+  "key": "8KKXK6ZF",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780853155669",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "Auto DOI 10.2307/j.ctv1j9mjwm.9 is a 2021 Duke reprint chapter, rejected; L&W 1983 Marx a hundred years on verified in Open Library"
+ },
+ {
+  "key": "SGE4IAGC",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": 1984,
+  "note": "Auto DOI 10.2307/2185595 is a review of Habermas's Theory of Communicative Action, rejected; no Heinemann 1984 ISBN found"
+ },
+ {
+  "key": "ERVGMZ2R",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": 1973,
+  "note": "Auto DOI 10.1057/978-1-137-59246-0 is a 2017 book on neoliberalism, rejected; no Heinemann 1976 ISBN found"
+ },
+ {
+  "key": "SWT7VFZF",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": 1968,
+  "note": "Auto DOI 10.2307/588338 is a Lukes/Habermas journal article, rejected; no Heinemann 1972 ISBN found"
+ },
+ {
+  "key": "3KECQL6X",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Thesis; auto DOI 10.4324/9780203358917_chapter_9 is a different chapter (After reading Foucault) in Foucault and Literature, rejected"
+ },
+ {
+  "key": "CDSMGI3E",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780855279530",
+  "edition_year": 1979,
+  "original_year": 1979,
+  "note": "Auto DOI 10.2307/1854919 is a 1980 journal review, rejected; Harvester 1979 edition verified in Open Library"
+ },
+ {
+  "key": "3JGBN8H6",
+  "status": "corrected",
+  "doi": "10.1007/978-1-349-06969-9",
+  "isbn": null,
+  "edition_year": 1981,
+  "original_year": null,
+  "note": "Auto DOI 10.2307/2023735 is a 1962 review, rejected; Crossref Macmillan 1981 Savage book is titled The Theories of Talcott Parsons, not the Zotero title, so check"
+ },
+ {
+  "key": "TYP7GP5S",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Newspaper article in International Herald Tribune; auto DOI 10.1108/eb047675 is an unrelated Computer and Personal Privacy article, rejected"
+ },
+ {
+  "key": "MDJCLXAW",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780029323601",
+  "edition_year": 1972,
+  "original_year": 1972,
+  "note": "Auto DOI 10.1007/978-1-349-12345-2_7 is a 1993 unrelated chapter, rejected; Free Press 1972 Studies in social interaction verified in Open Library"
+ },
+ {
+  "key": "LLL5QQNH",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780814750308",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI 10.4324/9781315250601-16 is a 2017 Routledge reprint, rejected; NYU Press 1986 edition of Lukes ed. Power (Zotero says Blackwell), ISBN verified in Open Library"
+ },
+ {
+  "key": "2W672H8U",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": 1938,
+  "note": "Auto DOI 10.2307/2084218 is a 1939 review, rejected; no 1938 Allen & Unwin ISBN found (Open Library has only 1969+ editions)"
+ },
+ {
+  "key": "FJBWSZMV",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI 10.1007/bf00206983 is an unrelated Theory and Society article; Rogers 1980 chapter Goffman on Power, Hierarchy, and Status is a different item"
+ }
+]

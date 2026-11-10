@@ -1,0 +1,19 @@
+{
+ "key": "JAEVYMHV",
+ "title": "Capital and CHI: Technological Capture and How It Structures CHI Research",
+ "short_label": "Gilbert 2025",
+ "year": 2025,
+ "doi": "10.48550/arXiv.2501.14092",
+ "oa": "W4406840642",
+ "s2": "00af43f03f69f7a5401de9faac0d4d1d1bfdad8d",
+ "cites": 2,
+ "oa_refs": [
+  "W4308045318",
+  "W4366581819"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Resolved by DOI in both sources; titles and first author match, years match. Type is arXiv preprint. OpenAlex reports only 2 references and Semantic Scholar reports 0; the reference lists may be incomplete for this preprint. | S2 reference list empty (likely publisher elided)",
+ "oa_title": "Capital and CHI: Technological Capture and How It Structures CHI Research",
+ "abstract": "This paper advances a theoretical argument about the role capital plays in structuring CHI research. We introduce the concept of technological capture to theorize the mechanism by which this happens. Using this concept, we decompose the effect on CHI into four broad forms: technological capture creates market-creating, market-expanding, market-aligned, and externality-reducing CHI research. We place different CHI subcommunities into these forms -- arguing that many of their values are inherited from capital underlying the field. Rather than a disciplinary- or conference-oriented conceptualization of the field, this work theorizes CHI as tightly-coupled with capital via technological capture. The paper concludes by discussing some implications for CHI."
+}

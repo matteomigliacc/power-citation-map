@@ -1,0 +1,452 @@
+[
+ {
+  "key": "7VFL5GUY",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "D8QCAZQ4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "JFQ99CRM",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "283P7VG3",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "V4USIPDB",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780631163206",
+  "edition_year": 1975,
+  "original_year": 1975,
+  "note": "retry: openlibrary edition (filed under 'Origines du capitalisme') 'The origins of capitalism'"
+ },
+ {
+  "key": "6U5Z4W7R",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "9NEAIDBZ",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780300003956",
+  "edition_year": 1961,
+  "original_year": 1961,
+  "note": "retry: openlibrary edition 'Who Governs? Democracy and Power in an American City'"
+ },
+ {
+  "key": "P7SP4GDA",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "TTPY6S7J",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780631140429",
+  "edition_year": 1986,
+  "original_year": 1986,
+  "note": "retry: openlibrary edition (filed under 'Foucault') 'Foucault: a critical reader'"
+ },
+ {
+  "key": "8UY98FWL",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780226319520",
+  "edition_year": 1982,
+  "original_year": 1982,
+  "note": "retry: openlibrary edition 'The limits to capital.'"
+ },
+ {
+  "key": "SGE4IAGC",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "ERVGMZ2R",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780435823863",
+  "edition_year": 1976,
+  "original_year": 1973,
+  "note": "retry: openlibrary edition (filed under 'Legitimationsprobleme im Spätkapitalismu') 'Legitimation Crisis'"
+ },
+ {
+  "key": "SWT7VFZF",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780435823825",
+  "edition_year": 1972,
+  "original_year": 1968,
+  "note": "retry: openlibrary edition (filed under 'Erkenntnis und Interesse') 'Knowledge and human interests'"
+ },
+ {
+  "key": "3KECQL6X",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "TYP7GP5S",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "2W672H8U",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780043010099",
+  "edition_year": 1960,
+  "original_year": 1938,
+  "note": "retry: openlibrary edition (filed under 'Power') 'Power: a new social analysis'"
+ },
+ {
+  "key": "FJBWSZMV",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "AWHQ5455",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "TXGF5T43",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "TET2W8RK",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780722073049",
+  "edition_year": 1973,
+  "original_year": 1971,
+  "note": "retry: openlibrary edition (filed under 'Pouvoir politique et classes sociales') 'Political power and social classes'"
+ },
+ {
+  "key": "PTVEJDHQ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "4W5VITXA",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "2BS7KMDB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "42GA275Y",
+  "status": "found",
+  "doi": null,
+  "isbn": "9781785041488",
+  "edition_year": null,
+  "original_year": 2002,
+  "note": "retry: openlibrary search hit 'Power and Control'"
+ },
+ {
+  "key": "8IG2U44N",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "BLYYFCVU",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780070434813",
+  "edition_year": 1939,
+  "original_year": 1923,
+  "note": "retry: openlibrary edition (filed under 'Elementi di scienza politica') 'The ruling class'"
+ },
+ {
+  "key": "3J5ZZAH3",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "MVVABFGN",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780710009968",
+  "edition_year": 1982,
+  "original_year": 1982,
+  "note": "retry: openlibrary edition (filed under 'INTL YEARBOOK ORG 1981') 'The international yearbook of organisation studies.'"
+ },
+ {
+  "key": "L6YT6LRB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "FUGY7XPB",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780198810841",
+  "edition_year": 1964,
+  "original_year": 1962,
+  "note": "retry: openlibrary edition (filed under 'La teoría política del individualismo po') 'The Political Theory of Possessive Individualism: Hobbes to '"
+ },
+ {
+  "key": "U9G79I2B",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "P42FQYX6",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780140400144",
+  "edition_year": 1970,
+  "original_year": 1531,
+  "note": "retry: openlibrary edition (filed under 'Discourses on Livy') 'The discourses.'"
+ },
+ {
+  "key": "SITVKMAJ",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780140551051",
+  "edition_year": 1976,
+  "original_year": 1976,
+  "note": "retry: openlibrary edition (filed under 'Fictions') 'Fictions: the novel and social reality'"
+ },
+ {
+  "key": "Z8HCCE95",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780631119005",
+  "edition_year": 1968,
+  "original_year": 1953,
+  "note": "retry: openlibrary edition (filed under 'Philosophische Untersuchungen') 'Philosophical investigations.'"
+ },
+ {
+  "key": "DDTUZF82",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780853152842",
+  "edition_year": 1975,
+  "original_year": 1935,
+  "note": "retry: openlibrary edition 'Karl Marx, Frederick Engels: [collected works'"
+ },
+ {
+  "key": "DLCP4PJU",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "3WVJF3VP",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780436140808",
+  "edition_year": 1983,
+  "original_year": 1980,
+  "note": "retry: openlibrary edition (filed under 'Il nome della rosa') 'The Name of the Rose'"
+ },
+ {
+  "key": "Y6HXYD8M",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "KL3WDVMN",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780631150862",
+  "edition_year": 1986,
+  "original_year": 1986,
+  "note": "retry: openlibrary edition 'Power in the organisation: the discourse of power in manager'"
+ },
+ {
+  "key": "PJB6HAKY",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "IH4L95RK",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "D4FWGIAH",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "LGDEA3WJ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "BSD5GXUS",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780192500434",
+  "edition_year": 1935,
+  "original_year": 1515,
+  "note": "retry: openlibrary edition 'The Prince'"
+ },
+ {
+  "key": "WEQ5GXJ4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "D7DVK2L3",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780471900894",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "retry: openlibrary edition 'International yearbook of organizational democracy: for the '"
+ },
+ {
+  "key": "PMKHS9P4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "RULJW632",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780140551549",
+  "edition_year": 1984,
+  "original_year": 1976,
+  "note": "retry: openlibrary edition (filed under 'L'histoire de la sexualité, t.1') 'The History of Sexuality: An Introduction v. 1'"
+ },
+ {
+  "key": "M78GYXHP",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ },
+ {
+  "key": "MURMYREH",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "retry: nothing verifiable"
+ }
+]

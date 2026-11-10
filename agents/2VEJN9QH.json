@@ -1,0 +1,22 @@
+{
+ "key": "2VEJN9QH",
+ "title": "Regulating 'Platform Power'",
+ "short_label": "Lynskey 2017",
+ "year": 2017,
+ "doi": "10.2139/ssrn.2921021",
+ "oa": "W2612284393",
+ "s2": "913a1aaa526c372dcbacaa7ff6f06f11148f8c0a",
+ "cites": 41,
+ "oa_refs": [
+  "W2279187953",
+  "W2334918364",
+  "W3122912951",
+  "W3157172840",
+  "W4249502303",
+  "W6941186251"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Resolved via DOI lookup in both sources (title search returned no candidates). Title, first author and year match. OpenAlex reports 6 refs; S2 reports 0 refs (possibly empty or elided list, see script notes). | S2 reference list null (publisher elided)",
+ "oa_title": "Regulating 'Platform Power'"
+}

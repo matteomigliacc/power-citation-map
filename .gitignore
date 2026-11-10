@@ -1,0 +1,18 @@
+# secrets: API keys live only in .env (see .env.example)
+.env
+
+# API response caches (large; some cached URLs were built with an API key)
+cache/
+clegg/cache/
+
+# Zotero write payloads, results and backups: they hold Extra-field contents of the group library
+clegg/zotero_write/
+clegg/zotero_backup_before_write.json
+clegg/zotero_write_plan.json
+clegg/zotero_compact.json
+
+# local leftovers
+__pycache__/
+*.pyc
+*.bak*
+.DS_Store

@@ -1,0 +1,29 @@
+{
+ "key": "OUT_W2989626447",
+ "title": "Consent as a Free Pass: Platform Power and the Limits of the Informational Turn",
+ "short_label": "Bietti 2020",
+ "year": 2020,
+ "doi": "10.58948/2331-3528.2013",
+ "oa": "W2989626447",
+ "s2": "66d8f7e461c6b7ffd277794944d3c98350df1b81",
+ "cites": 76,
+ "oa_refs": [
+  "W6814781",
+  "W1580609656",
+  "W2557671501",
+  "W2773523653",
+  "W2784466985",
+  "W2792894415",
+  "W2885582588",
+  "W2901263168",
+  "W3016242181",
+  "W3021311978",
+  "W3125544523",
+  "W4300071243"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "IDs verified via DOI lookup: title, first author (Elettra Bietti) and year 2020 match on both OpenAlex and Semantic Scholar. Title search returned no hits, DOI lookup was used. | S2 reference list null (publisher elided)",
+ "oa_title": "Consent as a Free Pass: Platform Power and the Limits of the Informational Turn",
+ "abstract": "Across the United States and Europe, notice and consent, the act of clicking that “I have read and agree” to a platform’s terms of service, is the central device for legitimating and enabling platforms’ data processing, acting as a free pass for a variety of intrusive activities which include profiling and behavioral advertising. Notwithstanding literature and findings that lay significant doubts on notice and consent’s adequacy as a regulatory device in the platform ecosystem, courts, regulators and other public authorities across these regions keep adopting and legitimating these practices. Yet while consent seems a good proxy for ensuring justice in the platform economy, it is an empty construct. This Article explains how notice and consent practices in the platform economy are not only normatively futile but also positively harmful. Narrow understandings that focus on voluntariness and disclosure such as the ones generally adopted by regulators and courts fail to account for the systemically unjust background conditions within which voluntary individual acts of consent take place. Through such narrow approaches, regulators are failing to acknowledge that consent cannot be reasonably taken to morally transform the rights, obligations and relationships that it purports to reshape. Further, it positively harms consumers in at least three ways: burdening them with decisions they cannot meaningfully make; subordinating their core inalienable rights to respect and dignity to th"
+}

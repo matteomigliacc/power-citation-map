@@ -1,0 +1,30 @@
+{
+ "key": "6A99P4RN",
+ "title": "Wealth and Power: Philosophical Perspectives",
+ "short_label": "Bennett 2022",
+ "year": 2022,
+ "doi": "10.4324/9781003173632",
+ "oa": "W4307999553",
+ "s2": null,
+ "cites": 3,
+ "oa_refs": [
+  "W1511062547",
+  "W1959465522",
+  "W2037131379",
+  "W2071117636",
+  "W2122387224",
+  "W2461398670",
+  "W2767160915",
+  "W2791743896",
+  "W2961497722",
+  "W2999954403",
+  "W3013727773",
+  "W3188719069",
+  "W3199981326"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Semantic Scholar: no record for the book itself; only candidate was a 2023 book review (a32a53e7b10873a8cbf8bd4aafe7f8a345beb52f), rejected, S2 ID omitted. OpenAlex W4307999553 matched by exact DOI, year 2022 matches; OpenAlex lists first author as Huub Brouwer (editors listed alphabetically, first editor is Bennett). Key OpenAlex metadata title is truncated to \"Wealth and Power\".",
+ "oa_title": "Wealth and Power",
+ "abstract": "Is political equality viable given the unequal private property holdings characteristic of a capitalist economy? This book places the wealth-politics nexus at the centre of scholarly analysis. Traditional theories of democracy and property have often ignored the ways in which the rich attempt to convert their wealth into political power, operating on the implicit assumption that politics is isolated from economic forces. This book brings the moral and political links between wealth and power into clear focus. The chapters are divided into three thematic sections. Part I analyses wealth and politics from the perspective of various political traditions, such as liberalism, republicanism, anarchism, and Marxism. Part II addresses the economic sphere, and looks at the political influence of corporations, philanthropists and commons-based organizations. Finally, Part III turns to the political sphere and looks at the role of political parties and constitutions, and phenomena such as corruption and lobbying. Wealth and Power: Philosophical Perspectives will be of interest to scholars and advanced students working in political philosophy, political science, economics, and law."
+}

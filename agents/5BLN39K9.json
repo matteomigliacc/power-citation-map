@@ -1,0 +1,20 @@
+{
+ "key": "5BLN39K9",
+ "title": "A Relational Turn for Data Protection?",
+ "short_label": "Richards et al. 2020",
+ "year": 2020,
+ "doi": "10.21552/edpl/2020/4/5",
+ "oa": "W3112516778",
+ "s2": "5b179823749f1b252c01b2835f748f4039ba31b4",
+ "cites": 11,
+ "oa_refs": [
+  "W2945887911",
+  "W3073943635",
+  "W3123121074"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "S2 reference list null (publisher elided)",
+ "oa_title": "A Relational Turn for Data Protection?",
+ "abstract": "If there’s one thing everyone in the data protection debate can agree on, it’s that it’s all about the data. All over the world, data protection regimes fixate on when data can be collected, how it is being processed, when it can be accessed or should be deleted, and whether it is personal, sensitive, or deidentified. This is true even for approaches that seem quite different at first glance, such as the U.S. and EU."
+}

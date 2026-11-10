@@ -1,0 +1,16 @@
+{
+ "key": "B26F5G5M",
+ "title": "The Power Chapter (Data Feminism, ch. 1)",
+ "short_label": "D'Ignazio & Klein 2020",
+ "year": 2020,
+ "doi": "10.7551/mitpress/11805.003.0003",
+ "oa": "W3160968163",
+ "s2": "ad752cacdbe1d567695b4bb11b8edff912f153aa",
+ "cites": 10,
+ "oa_refs": [],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Both sources return a first_author of null for this chapter, so the match rests on exact title, year 2020 and the chapter DOI 10.7551/mitpress/11805.003.0003, which both records share. Rejected OpenAlex W2904142509 (2018 article, Chapter Seven: The Power Chapter). | S2 reference list empty (likely publisher elided)",
+ "oa_title": "The Power Chapter",
+ "abstract": "When tennis star Serena Williams disappeared from Instagram in early September 2017, her six million followers assumed they knew what had happened. Several months earlier, in March of that year, Williams had accidentally announced her pregnancy to the world via a bathing suit selfie and a caption that was hard to misinterpret: “20 weeks.” Now, they thought, her baby had finally arrived."
+}

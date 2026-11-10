@@ -1,0 +1,676 @@
+[
+ {
+  "key": "FGZKSJGW",
+  "zotero_type": "book",
+  "title": "Marx's capital and capitalism today",
+  "authors": [
+   "Cutler, A.",
+   "Hindess, B.",
+   "Hirst, P. Q."
+  ],
+  "zotero_year": "1979",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9780203707791",
+   "title": "Marx's Capital and Capitalism Today Routledge Library Editions: Political Science Volume 52",
+   "year": 2013,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "MXGPAFPE",
+  "zotero_type": "book",
+  "title": "Marx's capital and capitalism today",
+  "authors": [
+   "Cutler, A.",
+   "Hindess, B.",
+   "Hirst, P. Q."
+  ],
+  "zotero_year": "1979",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9780203707791",
+   "title": "Marx's Capital and Capitalism Today Routledge Library Editions: Political Science Volume 52",
+   "year": 2013,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "LLW3B22T",
+  "zotero_type": "book",
+  "title": "The bureaucratic phenomenon",
+  "authors": [
+   "Crozier, M."
+  ],
+  "zotero_year": "1964",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Tavistock",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315131092",
+   "title": "The Bureaucratic Phenomenon",
+   "year": 2017,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": {
+   "title": "The bureaucratic phenomenon"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "BSD5GXUS",
+  "zotero_type": "bookSection",
+  "title": "Introduction",
+  "authors": [
+   "Crick, B.",
+   "Machiavelli, N."
+  ],
+  "zotero_year": "1958",
+  "book_title": "The prince",
+  "journal": null,
+  "publisher": "Penguin",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1093/actrade/9780192802507.003.0001",
+   "title": "Introduction",
+   "year": 2003,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": {
+   "isbn": "9780192500434",
+   "title": "The Prince",
+   "edition_year": 1935,
+   "publisher": "Oxford University Press",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "59V9MVLZ",
+  "zotero_type": "bookSection",
+  "title": "The black box of habit on the wings of history: Reflections on the theory of social reproduction",
+  "authors": [
+   "Connell, R. W.",
+   "Connell, R. W."
+  ],
+  "zotero_year": "1983",
+  "book_title": "Which way is up?",
+  "journal": null,
+  "publisher": "Allen and Unwin",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781003408031-8",
+   "title": "The black box of habit on the wings of history: critical reflections on the theory of social reproduction, with suggestions on how to do it better",
+   "year": 2023,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": {
+   "isbn": "9780868613666",
+   "title": "Which way is up?",
+   "edition_year": 1983,
+   "publisher": "Allen & Unwin",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "N6QJUMJV",
+  "zotero_type": "bookSection",
+  "title": "Complexities of fury leave … a critique of the althusserian approach to class",
+  "authors": [
+   "Connell, R. W.",
+   "Connell, R. W."
+  ],
+  "zotero_year": "1983",
+  "book_title": "Which way is up?",
+  "journal": null,
+  "publisher": "Allen and Unwin",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781003408031-7",
+   "title": "Complexities of fury leave… A critique of the Althusserian approach to class",
+   "year": 2023,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": {
+   "isbn": "9780868613666",
+   "title": "Which way is up?",
+   "edition_year": 1983,
+   "publisher": "Allen & Unwin",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "2DC2G9BA",
+  "zotero_type": "bookSection",
+  "title": "Notes on the study of power",
+  "authors": [
+   "Coleman, J.",
+   "Liebert, R. J.",
+   "Imerskein, A. W."
+  ],
+  "zotero_year": "1977",
+  "book_title": "Power, paradigms and community research",
+  "journal": null,
+  "publisher": "Sage Publications",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.34191/ri-121",
+   "title": "Preliminary notes on alternate sites for a coal-fired power plant in Utah",
+   "year": 1977,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780803999992",
+   "title": "Power, paradigms and community research",
+   "edition_year": 1977,
+   "publisher": "Sage Publications [for] the International Sociological Association",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "WEQ5GXJ4",
+  "zotero_type": "book",
+  "title": "Modern social theory",
+  "authors": [
+   "Cohen, P."
+  ],
+  "zotero_year": "1968",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Heinemann Educational Books",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/978-1-349-62201-6",
+   "title": "Risk in the Modern Age",
+   "year": 2000,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "title": "Modern social theory"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "3W5UJNMS",
+  "zotero_type": "bookSection",
+  "title": "Post-confucianism, social democracy and economic culture",
+  "authors": [
+   "Clegg, S. R.",
+   "Higgins, W.",
+   "Spybey, T."
+  ],
+  "zotero_year": "1989",
+  "book_title": "Capitalism in contrasting cultures",
+  "journal": null,
+  "publisher": "De Gruyter",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1515/9783110865714.31",
+   "title": "‘Post-Confucianism’, Social Democracy and Economic Culture",
+   "year": 1990,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": {
+   "isbn": "9783111788708",
+   "title": "Capitalism in Contrasting Cultures",
+   "edition_year": 1990,
+   "publisher": "De Gruyter, Inc.",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "TPL2AVNF",
+  "zotero_type": "bookSection",
+  "title": "Politics and crisis: The state of the recession",
+  "authors": [
+   "Clegg, S. R.",
+   "Boreham, P.",
+   "Dow, G."
+  ],
+  "zotero_year": "1983",
+  "book_title": "The state, class and the recession",
+  "journal": null,
+  "publisher": "Croom Helm",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315881539",
+   "title": "The State, Class and the Recession (Routledge Revivals)",
+   "year": 2013,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780312756093",
+   "title": "The State, class, and the recession",
+   "edition_year": 1983,
+   "publisher": "Croom Helm",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "UGA4SL3P",
+  "zotero_type": "journalArticle",
+  "title": "The power of language, the language of power",
+  "authors": [
+   "Clegg, S. R."
+  ],
+  "zotero_year": "1987",
+  "book_title": null,
+  "journal": "Organization Studies",
+  "publisher": null,
+  "zotero_doi": "10.1177/017084068700800105",
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1177/017084068700800105",
+   "title": "The Language of Power and the Power of Language",
+   "year": 1987,
+   "type": "journal-article",
+   "via": "zotero+crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "IH3XRW7C",
+  "zotero_type": "journalArticle",
+  "title": "Review of a. Giddens, “the constitution of society”",
+  "authors": [
+   "Clegg, S. R."
+  ],
+  "zotero_year": "1986",
+  "book_title": null,
+  "journal": "Australian and New Zealand Journal of Sociology",
+  "publisher": null,
+  "zotero_doi": "10.1177/144078338602200128",
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1177/144078338602200128",
+   "title": "Book Reviews : THE CONSTITUTION OF SOCIETY: OUTLINE OF THE THEORY OF STRUCTURATION. By Anthony Giddens. Polity Press, Cambridge, 1984.402 pp. $19.50 (Cloth)",
+   "year": 1986,
+   "type": "journal-article",
+   "via": "zotero+crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "D7DVK2L3",
+  "zotero_type": "bookSection",
+  "title": "Organizational democracy, power and participation",
+  "authors": [
+   "Clegg, S. R.",
+   "Crouch, C.",
+   "Heller, F."
+  ],
+  "zotero_year": "1983",
+  "book_title": "The international yearbook of organizational democracy",
+  "journal": null,
+  "publisher": "John Wiley",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/978-1-349-17144-6_10",
+   "title": "Democracy and Participation",
+   "year": 1983,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "GG7FRYQ3",
+  "zotero_type": "bookSection",
+  "title": "Power, organization theory, marx and critique",
+  "authors": [
+   "Clegg, S. R.",
+   "Clegg, S. R.",
+   "Dunkerley, D."
+  ],
+  "zotero_year": "1977",
+  "book_title": "Critical issues in organizations",
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9780203810279.ch17",
+   "title": "Organization theory, power and changing institutions",
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780710085061",
+   "title": "Critical issues in organizations",
+   "edition_year": 1977,
+   "publisher": "Routledge & K. Paul",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "L4Q7DDP2",
+  "zotero_type": "book",
+  "title": "Economic backwardness in historical perspective and other essays",
+  "authors": [
+   "Gerschenkron, A."
+  ],
+  "zotero_year": "1962",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Harvard University Press",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.7476/9788575114551",
+   "title": "Work in Brazil: essays in historical and economic sociology",
+   "year": 2016,
+   "type": "book",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "IRICK5HJ",
+  "zotero_type": "journalArticle",
+  "title": "Automobile workers and the american dream",
+  "authors": [
+   "Garson, D."
+  ],
+  "zotero_year": "1973",
+  "book_title": null,
+  "journal": "Politics and Society",
+  "publisher": null,
+  "zotero_doi": "10.1177/003232927300300202",
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1177/003232927300300202",
+   "title": "Automoble Workers and the Radical Dream",
+   "year": 1973,
+   "type": "journal-article",
+   "via": "zotero+crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "LFVJ2V9C",
+  "zotero_type": "journalArticle",
+  "title": "Review: The form of foucault",
+  "authors": [
+   "Gane, M."
+  ],
+  "zotero_year": "1986",
+  "book_title": null,
+  "journal": "Economy and Society",
+  "publisher": null,
+  "zotero_doi": "10.1080/03085148600000018",
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1080/03085148600000018",
+   "title": "The form of Foucault",
+   "year": 1986,
+   "type": "journal-article",
+   "via": "zotero+crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "PMKHS9P4",
+  "zotero_type": "book",
+  "title": "Constitutional government and democracy",
+  "authors": [
+   "Friedrich, C. J."
+  ],
+  "zotero_year": "1937",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Gipp",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781003545392",
+   "title": "American Government",
+   "year": 2024,
+   "type": "monograph",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "title": "Constitutional government and democracy"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "YNDU9659",
+  "zotero_type": "book",
+  "title": "Essays on positive economics",
+  "authors": [
+   "Friedman, M."
+  ],
+  "zotero_year": "1953",
+  "book_title": null,
+  "journal": null,
+  "publisher": "University of Chicago Press",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/2551326",
+   "title": "Essays in Positive Economics.",
+   "year": 1954,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "AP3PBVPS",
+  "zotero_type": "bookSection",
+  "title": "Disciplinary power and subjection",
+  "authors": [
+   "Foucault, M.",
+   "Lukes, S."
+  ],
+  "zotero_year": "1986",
+  "book_title": "Power",
+  "journal": null,
+  "publisher": "Blackwell",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.5040/9781501301445.ch-002",
+   "title": "Foucault, the Prisoner Support Movement, and Disciplinary Power",
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "RULJW632",
+  "zotero_type": "book",
+  "title": "The history of sexuality: An introduction",
+  "authors": [
+   "Foucault, M."
+  ],
+  "zotero_year": "1984",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Peregrine",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1016/s0033-3182(80)73703-9",
+   "title": "The History of Sexuality Vol I: An Introduction",
+   "year": 1980,
+   "type": "book-review",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "title": "The History of Sexuality"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "M78GYXHP",
+  "zotero_type": "journalArticle",
+  "title": "Questions of method: An interview with michel foucault",
+  "authors": [
+   "Foucault, M."
+  ],
+  "zotero_year": "1981",
+  "book_title": null,
+  "journal": "Ideology and Consciousness",
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.3817/0383055195",
+   "title": "Structuralism and Post-Structuralism: An Interview with Michel Foucault",
+   "year": 1983,
+   "type": "article",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "BXDBP2EK",
+  "zotero_type": "journalArticle",
+  "title": "What is an author?",
+  "authors": [
+   "Foucault, M."
+  ],
+  "zotero_year": "1979",
+  "book_title": null,
+  "journal": "Screen",
+  "publisher": null,
+  "zotero_doi": "10.1093/screen/20.1.13",
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/2930205",
+   "title": "What Was an Author?",
+   "year": 1987,
+   "type": "article",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "MURMYREH",
+  "zotero_type": "journalArticle",
+  "title": "Governmentality",
+  "authors": [
+   "Foucault, M."
+  ],
+  "zotero_year": "1979",
+  "book_title": null,
+  "journal": "Ideology and Consciousness",
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1093/bjc/40.2.321",
+   "title": "Government and Control",
+   "year": 2000,
+   "type": "article",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "UCWVSXMR",
+  "zotero_type": "bookSection",
+  "title": "The institutional transformations of the post laissez-faire state: Some reflections on the italian case",
+  "authors": [
+   "Ferraresi, F.",
+   "Clegg, S. R.",
+   "Dow, G."
+  ],
+  "zotero_year": "1983",
+  "book_title": "The state, class and the recession",
+  "journal": null,
+  "publisher": "Croom Helm",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/978-1-349-03076-7_2",
+   "title": "Keynes in the History of Economic Thought: Some Reflections",
+   "year": 1978,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780312756093",
+   "title": "The State, class, and the recession",
+   "edition_year": 1983,
+   "publisher": "Croom Helm",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ }
+]

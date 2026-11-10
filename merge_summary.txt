@@ -1,0 +1,293 @@
+Fetching metadata: 2812 OpenAlex + 1728 S2 cited records (cached after first run)
+
+Zotero items: 58  resolved: 54  doubtful (held out): []  unresolved: ['Common Wealth n.d.', 'Meta 2025', 'Ada Lovelace 2022', 'Cheney-Lippold 2017']
+Direct citations inside the set: 61  (both 43, OA only 14, S2 only 3)
+
+Most-cited within the set:
+   6  van Dijck 2019 — Reframing platform power
+   6  Lukes 2004 — Power: A Radical View
+   4  Bucher 2018 — If...Then: Algorithmic Power and Politics
+   4  Star 1999 — The Ethnography of Infrastructure
+   4  van der Vlist 2021 — How partners mediate platform power: Mapping business and data partner
+   3  Clegg 1989 — Frameworks of Power
+   3  Burkhardt 2019 — Mapping the Democratization of AI on GitHub
+   3  van der Vlist 2024 — Big AI: Cloud infrastructure dependence and the industrialisation of a
+   2  Cheney-Lippold 2017 — We Are Data: Algorithms and the Making of Our Digital Selves
+   2  Lynskey 2017 — Regulating 'Platform Power'
+   2  Sharon 2024 — Regulating Big Tech expansionism? Sphere transgressions and the limits
+   2  Lynskey 2019 — Grappling with “Data Power”: Normative Nudges from Data Protection and
+
+Unconnected (no direct citation, no shared-reference pair ≥ 2):
+  Negri-Ribalta 2026       [resolved]
+  Mertens 2026             [resolved]
+  Mason 2026               [resolved]
+  Bennett 2022             [resolved]
+  Gilbert 2025             [resolved]
+  Marjanov 2023            [resolved]
+  Weinberger 2026          [resolved]
+  Graef 2021               [resolved]
+  Ribera Martínez 2022     [resolved]
+  Emerson 1962             [resolved]
+  Common Wealth n.d.       [unresolved]
+  Meta 2025                [unresolved]
+  Ada Lovelace 2022        [unresolved]
+  Castells 2023            [resolved]
+  D'Ignazio & Klein 2020   [resolved]
+  Van Rosmalen 2026        [resolved]
+  Beer 2016                [resolved]
+
+No reference list in either source (outgoing links missing):
+  Mertens 2026             Semantic Scholar: no candidate returned by candidates search, so no S2 ID. OpenA
+  Common Wealth n.d.       Common Wealth webpage
+  Meta 2025                Meta blog post
+  Ada Lovelace 2022        not indexed: no OpenAlex or Semantic Scholar candidate matched title, first auth
+  Elyounes 2021            Year not in Zotero; taken from matched OpenAlex (2021) and S2 (2021) records, bo
+  D'Ignazio & Klein 2020   Both sources return a first_author of null for this chapter, so the match rests 
+  Van Rosmalen 2026        DOI match on both sources; title and first author match. S2 record has year null
+  Cheney-Lippold 2017      No acceptable book record in either source. OpenAlex candidates (W2773044688, W2
+
+Thin reference lists (< 5 refs in both):
+  Gilbert 2025             2
+  Lynskey 2019             4
+  Richards et al. 2020     3
+  Emerson 1962             1
+  Lukes 2004               1
+  Castells 2023            1
+
+Strongest shared-reference pairs (max of OA/S2 overlap):
+   19  Avelino 2009  ↔  Avelino 2021   (OA 19, S2 0)
+   11  Lawo 2026  ↔  Avelino 2021   (OA 6, S2 11)
+   11  van der Vlist 2021  ↔  van der Vlist 2022   (OA 9, S2 11)
+    9  Lomborg 2024  ↔  Flensburg 2023   (OA 9, S2 0)
+    8  Aradau 2022  ↔  Luchs 2023   (OA 8, S2 0)
+    7  Luitse 2024  ↔  van der Vlist 2024   (OA 7, S2 6)
+    7  Li 2021  ↔  Lyu 2025   (OA 7, S2 0)
+    6  van der Vlist 2021  ↔  Aradau 2022   (OA 6, S2 0)
+    6  Cobbe 2023  ↔  Terzis 2026   (OA 6, S2 4)
+    6  van Dijck 2019  ↔  van der Vlist 2022   (OA 5, S2 6)
+    6  Aradau 2022  ↔  Lomborg 2024   (OA 6, S2 0)
+    6  van der Vlist 2022  ↔  Lomborg 2024   (OA 6, S2 0)
+    6  Clegg 1989  ↔  Avelino 2021   (OA 4, S2 6)
+    5  van der Vlist 2021  ↔  Lomborg 2024   (OA 5, S2 0)
+    5  van Dijck 2019  ↔  Aradau 2022   (OA 5, S2 0)
+
+Outside papers cited by ≥2 Zotero papers: 172
+  12  Plantin 2016           Infrastructure studies meet platform studies in the age of G  [Infrastructure]
+   7  van Dijck 2018         The Platform Society  [Platform power]
+   6  Helmond 2019           Facebook’s evolution: development of a platform-as-infrastru  [Infrastructure]
+   6  Gillespie 2010         The politics of ‘platforms’  [Platform power]
+   5  Bietti 2020            Consent as a Free Pass: Platform Power and the Limits of the  [Law & regulati]
+   5  Zuboff 2019            The Age of Surveillance Capitalism: The Fight for a Human Fu  [Platform power]
+   5  Cohen 2019             Between Truth and Power  [Law & regulati]
+   5  Foucault 1977          Discipline and Punish: The Birth of the Prison.  [Power theory]
+   5  Helmond 2015           The Platformization of the Web: Making Web Data Platform Rea  [Platform power]
+   5  Blanke 2020            The Material Conditions of Platforms: Monopolization Through  [Platform power]
+   5  Star 1996              Steps Toward an Ecology of Infrastructure: Design and Access  [Infrastructure]
+   4  Bruns 2019             After the ‘APIcalypse’: social media platforms and their fig  [Infrastructure]
+   4  Nieborg 2018           The political economy of Facebook’s platformization in the m  [Platform power]
+   4  Mann 1984              The autonomous power of the state: its origins, mechanisms a  [Power theory]
+   4  Gürses 2016            Privacy after the Agile Turn  [Law & regulati]
+   4  Mackenzie 2015         The production of prediction: What does machine learning wan  [Algorithms, da]
+   4  Rieder 2013            Conflicts of interest and incentives to bias: A microeconomi  [Platform power]
+   4  Srnicek 2016*          Platform capitalism  [Platform power]
+   3  Bachrach 1962          Two Faces of Power  [Platform power]
+   3  GDPR 2016              The General Data Protection Regulation  [Law & regulati]
+   3  Haugaard 2002          Power: A reader  [Power theory]
+   3  Gerlitz 2013           The like economy: Social buttons and the data-intensive web  [Algorithms, da]
+   3  Mahieu 2018            Responsibility for Data Protection in a Networked World – On  [Law & regulati]
+   3  Bowker 1999            Sorting Things Out  [Other / outsid]
+   3  Pasquale 2015          The Black Box Society  [Algorithms, da]
+
+Bridging outside papers (cited from ≥3 themes):
+  5 themes / 5 papers  Zuboff 2019          The Age of Surveillance Capitalism: The Fight for a Hum
+  4 themes / 7 papers  van Dijck 2018       The Platform Society
+  4 themes / 5 papers  Cohen 2019           Between Truth and Power
+  4 themes / 5 papers  Foucault 1977        Discipline and Punish: The Birth of the Prison.
+  3 themes / 12 papers  Plantin 2016         Infrastructure studies meet platform studies in the age
+  3 themes / 6 papers  Gillespie 2010       The politics of ‘platforms’
+  3 themes / 5 papers  Bietti 2020          Consent as a Free Pass: Platform Power and the Limits o
+  3 themes / 5 papers  Helmond 2015         The Platformization of the Web: Making Web Data Platfor
+  3 themes / 5 papers  Blanke 2020          The Material Conditions of Platforms: Monopolization Th
+  3 themes / 4 papers  Bruns 2019           After the ‘APIcalypse’: social media platforms and thei
+  3 themes / 4 papers  Mackenzie 2015       The production of prediction: What does machine learnin
+  3 themes / 3 papers  Buolamwini 2018      Gender Shades: Intersectional Accuracy Disparities in C
+  3 themes / 3 papers  Selbst 2019          Fairness and Abstraction in Sociotechnical Systems
+
+Suspicious outside matches (off-topic domain) — candidates for drop.json:
+  oa:W2796249757     Chandwani 2018       Stitching Infrastructures to Facilitate Telemedicine for Low  [Health Sciences]
+  oa:W2596192549     Powles 2017          Google DeepMind and healthcare in an age of algorithms  [Health Sciences]
+
+Alias merges among outside records:
+  Evolving electronic communication networks (1986)  ⇐  EVOLVING ELECTRONIC COMMUNICATION NETWORKS: A (1987)  [edition/reprint: 'evolving electronic communication networks' by eveland]
+  The Wealth of Networks (2017)  ⇐  The wealth of networks: how social production (2006)  [edition/reprint: 'the wealth of networks' by benkler]
+  The Design of Everyday Things (2016)  ⇐  The Design of Everyday Things: Revised and Ex (2013)  [edition/reprint: 'the design of everyday things' by norman]
+  Design Rules (2000)  ⇐  Design Rules: The Power of Modularity (2000)  [edition/reprint: 'design rules' by baldwin]
+  Power, politics, and MIS implementation (1983)  ⇐  Power, Politics, and MIS implementation (2002)  [edition/reprint: 'power politics and mis implementation' by markus]
+  The autonomous power of the state: its origin (1984)  ⇐  The Autonomous Power of the State (2019)  [edition/reprint: 'the autonomous power of the state' by mann]
+  The History of Sexuality (1976)  ⇐  The history of sexuality: An introduction (1984)  [edition/reprint: 'the history of sexuality' by foucault]
+  The Black Box Society (2015)  ⇐  The Black Box Society: The Secret Algorithms  (2016)  [edition/reprint: 'the black box society' by pasquale]
+  A Critique of the Ruling Elite Model (1958)  ⇐  A critique of the ruling elite model (1971)  [edition/reprint: 'a critique of the ruling elite model' by dahl]
+  The Subject and Power (1982)  ⇐  The Subject and Power (1998)  [edition/reprint: 'the subject and power' by foucault]
+  Collaboration personas (2011)  ⇐  Collaboration personas : A framework for unde (2010)  [edition/reprint: 'collaboration personas' by matthews]
+  Getting Connected: How Sociologists Can Acces (2003)  ⇐  Getting Connected: How Sociologists Can Acces (2015)  [edition/reprint: 'getting connected' by undheim]
+  Challenge Social Innovation (2012)  ⇐  Challenge social innovation : potentials for  (2012)  [edition/reprint: 'challenge social innovation' by franz]
+  Discipline and Punish (2012)  ⇐  Discipline and Punish: The Birth of the Priso (2020)  [edition/reprint: 'discipline and punish' by foucault]
+  Discipline and Punish (2012)  ⇐  Discipline and punish: The birth of the priso (1977)  [edition/reprint: 'discipline and punish' by foucault]
+  Street-Level Bureaucracy: The Dilemmas of the (1980)  ⇐  Street-Level Bureaucracy: The Dilemmas of the (1983)  [edition/reprint: 'street level bureaucracy' by lipsky]
+  Capitalism without Capital (2017)  ⇐  Capitalism without Capital: The Rise of the I (2017)  [edition/reprint: 'capitalism without capital' by haskel]
+  We Value Your Privacy ... Now Take Some Cooki (2018)  ⇐  We Value Your Privacy ... Now Take Some Cooki (2019)  [edition/reprint: 'we value your privacy now take some cookies' by degeling]
+  The Age of Surveillance Capitalism: The Fight (2019)  ⇐  The Age of Surveillance Capitalism (2023)  [edition/reprint: 'the age of surveillance capitalism' by zuboff]
+  The sources of social power, Vol. 1 (2013)  ⇐  The sources of social power, vol. 1: a histor (1986)  [edition/reprint: 'the sources of social power vol 1' by mann]
+  After the ‘APIcalypse’: social media platform (2019)  ⇐  After the ‘APIcalypse’: social media platform (2021)  [edition/reprint: 'after the apicalypse' by bruns]
+  Between Truth and Power (2019)  ⇐  Between Truth and Power: The Legal Constructi (2019)  [edition/reprint: 'between truth and power' by cohen]
+  The Deadly Life of Logistics (2010)  ⇐  The Deadly Life of Logistics (2014)  [edition/reprint: 'the deadly life of logistics' by cowen]
+  Networks of Power (1993)  ⇐  Networks of power (1983)  [edition/reprint: 'networks of power' by hughes]
+  Antisocial Media: How Facebook Disconnects Us (2018)  ⇐  Antisocial Media (2018)  [edition/reprint: 'antisocial media' by vaidhyanathan]
+  The Biopolitical Public Domain: The Legal Con (2015)  ⇐  The Biopolitical Public Domain: the Legal Con (2017)  [edition/reprint: 'the biopolitical public domain' by cohen]
+  A World of Struggle (2016)  ⇐  A World of Struggle: How Power, Law, and Expe (2016)  [edition/reprint: 'a world of struggle' by kennedy]
+  The Ecological Approach To Visual Perception (2013)  ⇐  The Ecological Approach to Visual Perception: (2014)  [edition/reprint: 'the ecological approach to visual perception' by gibson]
+  Programmed visions: software and memory (2012)  ⇐  Programmed Visions (2011)  [edition/reprint: 'programmed visions' by chun]
+  Privacy Enhancing Technologies for the Intern (1997)  ⇐  Privacy-Enhancing Technologies for the Intern (2007)  [edition/reprint: 'privacy enhancing technologies for the internet iii' by goldberg]
+  Invisible Engines (2006)  ⇐  Invisible Engines: How Software Platforms Dri (2006)  [edition/reprint: 'invisible engines' by evans]
+  Local Transcendence (2008)  ⇐  Local Transcendence: Essays on Postmodern His (2008)  [edition/reprint: 'local transcendence' by liu]
+  Engineering a Safer World: Systems Thinking A (2012)  ⇐  Engineering a Safer World (2012)  [edition/reprint: 'engineering a safer world' by leveson]
+  Epistemic Trespassing (2017)  ⇐  Epistemic Trespassing (2019)  [edition/reprint: 'epistemic trespassing' by ballantyne]
+  Global Production Networks (2015)  ⇐  Global Production Networks: Theorizing Econom (2017)  [edition/reprint: 'global production networks' by coe]
+  Transitions to Sustainable Development (2010)  ⇐  Transitions to Sustainable Development: New D (2010)  [edition/reprint: 'transitions to sustainable development' by grin]
+  Privacy after the Agile Turn (2018)  ⇐  Privacy after the Agile Turn (2016)  [edition/reprint: 'privacy after the agile turn' by gurses]
+  The Presentation of Self in Everyday Life (2023)  ⇐  The presentation of self in everyday life (1959)  [edition/reprint: 'the presentation of self in everyday life' by goffman]
+  The Character of Consent (2024)  ⇐  The Character of Consent: The History of Cook (2025)  [edition/reprint: 'the character of consent' by jones]
+  Mismeasuring our lives : why GDP doesn't add  (2010)  ⇐  Mismeasuring Our Lives (2010)  [edition/reprint: 'mismeasuring our lives' by stiglitz]
+  Technological Transitions and System Innovati (2005)  ⇐  Technological Transitions And System Innovati (2005)  [edition/reprint: 'technological transitions and system innovations' by geels]
+  On the Concept of Political Power (2008)  ⇐  On the concept of political power (1963)  [edition/reprint: 'on the concept of political power' by parsons]
+  System contradiction and political transforma (1976)  ⇐  System contradiction and political transforma (1972)  [edition/reprint: 'system contradiction and political transformation' by parkin]
+  The Wealth of Networks (2017)  ⇐  The wealth of networks: How social production (2007)  [same title 'the wealth of networks', different first author (review or wrong metadata)]
+  Trust in numbers: the pursuit of objectivity  (1995)  ⇐  Trust in numbers: The pursuit of objectivity  (1996)  [same title 'trust in numbers', different first author (review or wrong metadata)]
+  Fear as a way of life : Mayan widows in rural (1999)  ⇐  Fear as a Way of Life: Mayan Widows in Rural  (2000)  [same title 'fear as a way of life', different first author (review or wrong metadata)]
+  Predators and prey: a new ecology of competit (1993)  ⇐  Predators and prey: a new ecology of competit (1993)  [same title 'predators and prey', different first author (review or wrong metadata)]
+  Discipline and Punish: The Birth of the Priso (1978)  ⇐  Discipline and Punish (2012)  [same title 'discipline and punish', different first author (review or wrong metadata)]
+  Discipline and Punish: The Birth of the Priso (1978)  ⇐  Discipline and Punish (2013)  [same title 'discipline and punish', different first author (review or wrong metadata)]
+  Standards Policy for Information Infrastructu (1995)  ⇐  Standards policy for information infrastructu (1996)  [same title 'standards policy for information infrastructure', different first author (review or wrong metadata)]
+  Digital Platforms, Imperialism and Political  (2015)  ⇐  Digital Platforms, Imperialism and Political  (2016)  [same title 'digital platforms imperialism and political culture', different first author (review or wrong metadata)]
+  What things do: philosophical reflections on  (2005)  ⇐  What Things Do: Philosophical Reflections on  (2006)  [same title 'what things do', different first author (review or wrong metadata)]
+  Power and Poverty: Theory and Practice. (1972)  ⇐  Power and poverty : theory and practice (1970)  [same title 'power and poverty', different first author (review or wrong metadata)]
+  Privacy in Context (2009)  ⇐  Privacy in context: technology, policy, and t (2010)  [same title 'privacy in context', different first author (review or wrong metadata)]
+  Making Social Science Matter (2001)  ⇐  Making Social Science Matter: Why Social Inqu (2002)  [same title 'making social science matter', different first author (review or wrong metadata)]
+  Design Artifact's, Design Principles, Problem (2010)  ⇐  Design Artifact's, Design Principles, Problem (2012)  [same title 'design artifact s design principles problems goals and importance', different first author (review or wrong metadata)]
+  The Culture of Connectivity (2013)  ⇐  The culture of connectivity: a critical histo (2013)  [same title 'the culture of connectivity', different first author (review or wrong metadata)]
+  Spaces of Neoliberalism (2002)  ⇐  Spaces of Neoliberalism: Urban Restructuring  (2003)  [same title 'spaces of neoliberalism', different first author (review or wrong metadata)]
+  The Woman in the Body: A Cultural Analysis of (1988)  ⇐  The woman in the body: A cultural analysis of (1988)  [same title 'the woman in the body', different first author (review or wrong metadata)]
+  Making the Grade: The Academic Side of Colleg (1969)  ⇐  Making the Grade: The Academic Side of Colleg (1969)  [same title 'making the grade', different first author (review or wrong metadata)]
+  Systematic literature reviews. (2005)  ⇐  Systematic Literature Reviews (2003)  [same title 'systematic literature reviews', different first author (review or wrong metadata)]
+  Cultural boundaries of science: Credibility o (1999)  ⇐  Cultural Boundaries of Science: Credibility o (2001)  [same title 'cultural boundaries of science', different first author (review or wrong metadata)]
+  The State in Capitalist Society. (1970)  ⇐  The state in capitalist society (1969)  [same title 'the state in capitalist society', different first author (review or wrong metadata)]
+  Global software development (2001)  ⇐  Global software development: growing opportun (2003)  [same title 'global software development', different first author (review or wrong metadata)]
+  Political Power and Social Classes. (1976)  ⇐  Political power and social classes (1973)  [same title 'political power and social classes', different first author (review or wrong metadata)]
+  Science in action : how to follow scientists  (1989)  ⇐  Science in Action (1987)  [same title 'science in action', different first author (review or wrong metadata)]
+  Science in action : how to follow scientists  (1989)  ⇐  Science in Action: How to Follow Scientists a (1988)  [same title 'science in action', different first author (review or wrong metadata)]
+  The Presentation of Self in Everyday Life. (1956)  ⇐  The Presentation of Self in Everyday Life (2023)  [same title 'the presentation of self in everyday life', different first author (review or wrong metadata)]
+  The Structure of Social Action: A Study in So (1939)  ⇐  The structure of social action (1937)  [same title 'the structure of social action', different first author (review or wrong metadata)]
+  Selling the Air (1996)  ⇐  Selling the Air: A Critique of the Policy of  (1997)  [same title 'selling the air', different first author (review or wrong metadata)]
+  The closed world: computers and the politics  (1996)  ⇐  The Closed World: Computers and the Politics  (1997)  [same title 'the closed world', different first author (review or wrong metadata)]
+  Networks of Power: Electrification in Western (1984)  ⇐  Networks of Power: Electrification in Western (1984)  [same title 'networks of power', different first author (review or wrong metadata)]
+  Networks of Power: Electrification in Western (1984)  ⇐  Networks of Power (1993)  [same title 'networks of power', different first author (review or wrong metadata)]
+  Networks of Power: Electrification in Western (1984)  ⇐  Networks of Power: Electrification in Western (1984)  [same title 'networks of power', different first author (review or wrong metadata)]
+  The History of Statistics: The Measurement of (1986)  ⇐  The History of Statistics: The Measurement of (1987)  [same title 'the history of statistics', different first author (review or wrong metadata)]
+  Using APIs for Data Collection on Social Medi (2014)  ⇐  Using APIs for Data Collection on Social Medi (2014)  [same title 'using apis for data collection on social media', different first author (review or wrong metadata)]
+  Regions of the mind: brain research and the q (1990)  ⇐  Regions of the Mind: Brain Research and the Q (1991)  [same title 'regions of the mind', different first author (review or wrong metadata)]
+  Regions of the mind: brain research and the q (1990)  ⇐  Regions of the Mind (1991)  [same title 'regions of the mind', different first author (review or wrong metadata)]
+  The Sociological Imagination (1959)  ⇐  The Sociological Imagination (1960)  [same title 'the sociological imagination', different first author (review or wrong metadata)]
+  Sorting Things Out (1999)  ⇐  Sorting Things Out: Classification and Its Co (2000)  [same title 'sorting things out', different first author (review or wrong metadata)]
+  Sorting Things Out (1999)  ⇐  Sorting Things Out: Classification and Its Co (2001)  [same title 'sorting things out', different first author (review or wrong metadata)]
+  The master algorithm: how the quest for the u (2016)  ⇐  The master algorithm: how the quest for the u (2015)  [same title 'the master algorithm', different first author (review or wrong metadata)]
+  The Container Principle: How a Box Changes th (2016)  ⇐  The Container Principle: How a Box Changes th (2015)  [same title 'the container principle', different first author (review or wrong metadata)]
+  Control Through Communication: The Rise of Sy (1991)  ⇐  Control through Communication: The Rise of Sy (1990)  [same title 'control through communication', different first author (review or wrong metadata)]
+  Community Power Structure (1954)  ⇐  Community power structure (1953)  [same title 'community power structure', different first author (review or wrong metadata)]
+  Power and Powerlessness: Quiescence and Rebel (1981)  ⇐  Power and powerlessness: Quiescence and rebel (1980)  [same title 'power and powerlessness', different first author (review or wrong metadata)]
+  Governance by algorithms: reality constructio (2016)  ⇐  Governance by algorithms (2013)  [same title 'governance by algorithms', different first author (review or wrong metadata)]
+  Power and Knowledge (2010)  ⇐  Power and knowledge (2015)  [same title 'power and knowledge', different first author (review or wrong metadata)]
+  Undoing the Demos (2015)  ⇐  Undoing the demos: Neoliberalism’s stealth re (2015)  [same title 'undoing the demos', different first author (review or wrong metadata)]
+  The International Handbook on Social Innovati (2013)  ⇐  The International Handbook on Social Innovati (2015)  [same title 'the international handbook on social innovation', different first author (review or wrong metadata)]
+  Popular Culture and New Media (2013)  ⇐  Popular culture and new media: the politics o (2014)  [same title 'popular culture and new media', different first author (review or wrong metadata)]
+  Commission Nationale de l'Informatique et des (2016)  ⇐  Commission Nationale de l'Informatique et des (2016)  [same title 'commission nationale de l informatique et des libertes', different first author (review or wrong metadata)]
+  Weapons of Math Destruction: How Big Data Inc (2017)  ⇐  Weapons of Math Destruction: How Big Data Inc (2017)  [same title 'weapons of math destruction', different first author (review or wrong metadata)]
+  Weapons of Math Destruction: How Big Data Inc (2017)  ⇐  Weapons of math destruction (2018)  [same title 'weapons of math destruction', different first author (review or wrong metadata)]
+  Weapons of Math Destruction: How Big Data Inc (2017)  ⇐  Weapons of Math Destruction: How Big Data Inc (2018)  [same title 'weapons of math destruction', different first author (review or wrong metadata)]
+  We Are Data: Algorithms and the Making of Our (2017)  ⇐  We are data: algorithms and the making of our (2017)  [same title 'we are data', different first author (review or wrong metadata)]
+  We Are Data: Algorithms and the Making of Our (2017)  ⇐  We Are Data (2020)  [same title 'we are data', different first author (review or wrong metadata)]
+  Who does she think she is? Women, leadership  (2017)  ⇐  Who does she think she is? (2018)  [same title 'who does she think she is', different first author (review or wrong metadata)]
+  Critical Political Economy of the Media (2014)  ⇐  Critical Political Economy of the Media: An I (2015)  [same title 'critical political economy of the media', different first author (review or wrong metadata)]
+  The General Data Protection Regulation (2018)  ⇐  The General Data Protection Regulation: Requi (2019)  [same title 'the general data protection regulation', different first author (review or wrong metadata)]
+  Spheres Of Justice: A Defense Of Pluralism An (1984)  ⇐  Spheres of Justice: A Defense of Pluralism an (1985)  [same title 'spheres of justice', different first author (review or wrong metadata)]
+  Algorithms of Oppression: How Search Engines  (2018)  ⇐  Algorithms of Oppression: How Search Engines  (2018)  [same title 'algorithms of oppression', different first author (review or wrong metadata)]
+  The Age of Surveillance Capitalism: The Fight (2019)  ⇐  The age of surveillance capitalism: the fight (2019)  [same title 'the age of surveillance capitalism', different first author (review or wrong metadata)]
+  The Age of Surveillance Capitalism: The Fight (2019)  ⇐  The Age of Surveillance Capitalism (2020)  [same title 'the age of surveillance capitalism', different first author (review or wrong metadata)]
+  The Age of Surveillance Capitalism: The Fight (2019)  ⇐  The Age of Surveillance Capitalism: The Fight (2019)  [same title 'the age of surveillance capitalism', different first author (review or wrong metadata)]
+  Signal and noise: media, infrastructure, and  (2009)  ⇐  Signal and Noise (2008)  [same title 'signal and noise', different first author (review or wrong metadata)]
+  From GenderMag to InclusiveMag: An Inclusive  (2019)  ⇐  From GenderMag to InclusiveMag: (2021)  [same title 'from gendermag to inclusivemag', different first author (review or wrong metadata)]
+  Behind the Screen (2019)  ⇐  Behind the Screen: Content Moderation in the  (2019)  [same title 'behind the screen', different first author (review or wrong metadata)]
+  Custodians of the Internet: Platforms, Conten (2019)  ⇐  Custodians of the Internet (2019)  [same title 'custodians of the internet', different first author (review or wrong metadata)]
+  (Not) Getting Paid to Do What You Love (2017)  ⇐  (Not) getting paid to do what you love: Gende (2018)  [same title 'not getting paid to do what you love', different first author (review or wrong metadata)]
+  A governance framework for algorithmic accoun (2019)  ⇐  A governance framework for algorithmic accoun (2019)  [same title 'a governance framework for algorithmic accountability and transparency', different first author (review or wrong metadata)]
+  Antitrust compliance programmes and optimal a (2012)  ⇐  Antitrust compliance programmes and optimal a (2013)  [same title 'antitrust compliance programmes and optimal antitrust enforcement', different first author (review or wrong metadata)]
+  The Brussels Effect (2019)  ⇐  The Brussels effect: how the European Union r (2020)  [same title 'the brussels effect', different first author (review or wrong metadata)]
+  The Brussels Effect (2019)  ⇐  The Brussels Effect: How the European Union R (2022)  [same title 'the brussels effect', different first author (review or wrong metadata)]
+  Invasive Species of the App Ecosystem: Explor (2021)  ⇐  Invasive Species of the App Ecosystem: Explor (2021)  [same title 'invasive species of the app ecosystem', different first author (review or wrong metadata)]
+  Artificial Intelligence as a Service (2021)  ⇐  Artificial intelligence as a service: Legal r (2021)  [same title 'artificial intelligence as a service', different first author (review or wrong metadata)]
+  Mobilizing For Green Transformations (2015)  ⇐  The Politics of Green Transformations (2015)  [same title 'the politics of green transformations', different first author (review or wrong metadata)]
+  Indexing it all: the subject in the age of do (2015)  ⇐  Indexing It All (2014)  [same title 'indexing it all', different first author (review or wrong metadata)]
+  Racing the Beam (2009)  ⇐  Racing the beam: the Atari video computer sys (2009)  [same title 'racing the beam', different first author (review or wrong metadata)]
+  Rhetoric and The Rule of Law (2005)  ⇐  Rhetoric and the Rule of Law: A Theory of Leg (2006)  [same title 'rhetoric and the rule of law', different first author (review or wrong metadata)]
+  Watch Me Play (2018)  ⇐  Watch Me Play: Twitch and the Rise of Game Li (2020)  [same title 'watch me play', different first author (review or wrong metadata)]
+  World-Wide Web: The Information Universe (1992)  ⇐  World-Wide Web: The Information Universe (1992)  [same title 'world wide web', different first author (review or wrong metadata)]
+  The Platform Society (2018)  ⇐  The Platform Society: Public Values in a Conn (2018)  [same title 'the platform society', different first author (review or wrong metadata)]
+  The Marketplace of Attention (2014)  ⇐  The Marketplace of Attention : How Audiences  (2016)  [same title 'the marketplace of attention', different first author (review or wrong metadata)]
+  The Evolution of European Data Law (2021)  ⇐  The Evolution of European Data Law (2021)  [same title 'the evolution of european data law', different first author (review or wrong metadata)]
+  "Raw Data" Is an Oxymoron (2013)  ⇐  Raw Data is an Oxymoron (2014)  [same title 'raw data is an oxymoron', different first author (review or wrong metadata)]
+  Coordinating the Internet (1997)  ⇐  Coordinating the Internet (1997)  [same title 'coordinating the internet', different first author (review or wrong metadata)]
+  SLAVE TO THE ALGORITHM ? WHY A ‘ RIGHT TO AN  (2017)  ⇐  Slave to the Algorithm? Why a 'right to an ex (2017)  [same title 'slave to the algorithm', different first author (review or wrong metadata)]
+  The Immaculate Conception of Data (2022)  ⇐  The immaculate conception of data: Agribusine (2023)  [same title 'the immaculate conception of data', different first author (review or wrong metadata)]
+  Algorithms of Resistance (2024)  ⇐  Algorithms of resistance: the everyday fight  (2024)  [same title 'algorithms of resistance', different first author (review or wrong metadata)]
+  To the Cloud: Big Data in a Turbulent World (2015)  ⇐  To the Cloud: Big Data in a Turbulent World (2014)  [same title 'to the cloud', different first author (review or wrong metadata)]
+  Web 2.0 and Beyond: Principles and Technologi (2012)  ⇐  Web 2.0 and beyond: principles and technologi (2013)  [same title 'web 2 0 and beyond', different first author (review or wrong metadata)]
+  Engines of order: A mechanology of algorithmi (2021)  ⇐  Engines of Order (2020)  [same title 'engines of order', different first author (review or wrong metadata)]
+  Hegemony and Socialist Strategy: Towards a Ra (1988)  ⇐  Hegemony and socialist strategy (1985)  [same title 'hegemony and socialist strategy', different first author (review or wrong metadata)]
+  Atlas of AI: Power, Politics and the Planetar (2021)  ⇐  Atlas of AI: power, politics, and the planeta (2022)  [same title 'atlas of ai', different first author (review or wrong metadata)]
+  The control revolution: Technological and eco (1990)  ⇐  The Control Revolution: Technological and Eco (1988)  [same title 'the control revolution', different first author (review or wrong metadata)]
+  The concept of power (1957)  ⇐  The concept of power (1953)  [same title 'the concept of power', different first author (review or wrong metadata)]
+  Power: A Radical View (2004)  ⇐  Power (2005)  [manual: DOI 10.1007/978-0-230-80257-5 is an edition of Lukes 2004]
+  Power: A Radical View (2004)  ⇐  Power: a Radical View (1974)  [record titled like Zotero book Lukes 2004 (e.g. a review)]
+  Power: A Radical View (2004)  ⇐  Power, A Radical View (2007)  [record titled like Zotero book Lukes 2004 (e.g. a review)]
+  If...Then: Algorithmic Power and Politics (2018)  ⇐  IF … THEN: Algorithmic power and politics (2019)  [record titled like Zotero book Bucher 2018 (e.g. a review)]
+  If...Then: Algorithmic Power and Politics (2018)  ⇐  If … Then: Algorithmic Power and Politics (2019)  [record titled like Zotero book Bucher 2018 (e.g. a review)]
+
+Outside records merged into Zotero works:
+  Lukes 2004             ⇐ oa:W4252014798   Power (2005)
+  Lukes 2004             ⇐ s2:034f7e5b069dae454c4d99e9389686bc5af8d66c Power: a Radical View (1974)
+  Lukes 2004             ⇐ s2:cc585ee892dc83f3930ab4b624ba4cd7414d0e1e Power, A Radical View (2007)
+  Bucher 2018            ⇐ oa:W2919102742   IF … THEN: Algorithmic power and politics (2019)
+  Bucher 2018            ⇐ oa:W2921236263   If … Then: Algorithmic Power and Politics (2019)
+  Bucher 2018            ⇐ s2:d888b05e2d1e85b3e99ee411d15e19e7d0d75752 If … Then: Algorithmic Power and Politics (2019)
+  Cheney-Lippold 2017    ⇐ oa:W2773044688   We are data: algorithms and the making of our digital s (2017)
+  Cheney-Lippold 2017    ⇐ oa:W4365388160   We Are Data (2020)
+  Cheney-Lippold 2017    ⇐ s2:b4a326896c9bc79633b884f0589cdf1f282f9c45 We are data: algorithms and the making of our digital s (2017)
+  Clegg 1989             ⇐ oa:W1973485303   Frameworks of Power (1989)
+  Clegg 1989             ⇐ s2:39d53700eed3df7f3d953719855f3fe666db1d61 Frameworks of Power: Redux (2026)
+
+Clegg 1989: 439 references in Lauren's list; 18 match a record cited in the set
+  cites these collection papers: ['Lukes 2004']
+  cites 3 of the 172 outside papers: ['Foucault 1977', 'Bachrach 1962', 'Mann 1986']
+  cited by: ['Lawo 2026', 'Avelino 2009', 'Avelino 2021']
+  shared references with: [('Avelino 2021', 6), ('Lawo 2026', 4), ('Culpepper 2020', 4), ('Avelino 2009', 4), ('Emirbayer 1997', 3)]
+
+Top outside papers for step 5:
+  oa:W2501145764     12  Plantin 2016  Infrastructure studies meet platform studies in the age of G
+  oa:W4249673087     7  van Dijck 2018  The Platform Society
+  oa:W2943390543     6  Helmond 2019  Facebook’s evolution: development of a platform-as-infrastru
+  oa:W2171323324     6  Gillespie 2010  The politics of ‘platforms’
+  oa:W2989626447     5  Bietti 2020  Consent as a Free Pass: Platform Power and the Limits of the
+  oa:W2913707464     5  Zuboff 2019  The Age of Surveillance Capitalism: The Fight for a Human Fu
+  oa:W4237617041     5  Cohen 2019  Between Truth and Power
+  oa:W2332086916     5  Foucault 1977  Discipline and Punish: The Birth of the Prison.
+  oa:W2184763095     5  Helmond 2015  The Platformization of the Web: Making Web Data Platform Rea
+  oa:W3105425290     5  Blanke 2020  The Material Conditions of Platforms: Monopolization Through

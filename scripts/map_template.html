@@ -1,0 +1,362 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Power Citation Map</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --surface: #fcfcfb; --surface-2: #f3f2ef; --border: #dddcd7;
+  --ink: #0b0b0b; --ink-2: #52514e; --ink-3: #8a8984;
+  --edge: #8f8e89; --edge-hi: #0b0b0b; --shared: #b9b8b2; --shared-hi: #2a78d6;
+  --t-theory: #2a78d6; --t-platform: #eb6834; --t-infra: #1baf7a;
+  --t-law: #eda100; --t-algo: #e87ba4; --t-hci: #6250d6; --t-other: #9a9994;
+  --accent: #2a78d6;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --surface: #1a1a19; --surface-2: #242423; --border: #383835;
+    --ink: #f0efec; --ink-2: #c3c2b7; --ink-3: #8b8a83;
+    --edge: #85847d; --edge-hi: #f0efec; --shared: #4a4a46; --shared-hi: #3987e5;
+    --t-theory: #3987e5; --t-platform: #d95926; --t-infra: #199e70;
+    --t-law: #c98500; --t-algo: #d55181; --t-hci: #9085e9; --t-other: #7d7c76;
+    --accent: #3987e5;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --surface: #1a1a19; --surface-2: #242423; --border: #383835;
+  --ink: #f0efec; --ink-2: #c3c2b7; --ink-3: #8b8a83;
+  --edge: #85847d; --edge-hi: #f0efec; --shared: #4a4a46; --shared-hi: #3987e5;
+  --t-theory: #3987e5; --t-platform: #d95926; --t-infra: #199e70;
+  --t-law: #c98500; --t-algo: #d55181; --t-hci: #9085e9; --t-other: #7d7c76;
+  --accent: #3987e5;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; height: 100%; background: var(--surface); color: var(--ink);
+  font: 13px/1.4 -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif; }
+body { display: grid; grid-template-rows: auto 1fr; overflow: hidden; }
+header { display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center; padding: 10px 16px;
+  border-bottom: 1px solid var(--border); background: var(--surface); }
+header h1 { font-size: 15px; margin: 0 6px 0 0; font-weight: 650; }
+.group { display: flex; gap: 10px; align-items: center; flex-wrap: wrap; }
+.group > span.lbl { color: var(--ink-3); font-size: 11px; text-transform: uppercase; letter-spacing: .04em; }
+label.chk { display: inline-flex; gap: 4px; align-items: center; color: var(--ink-2); cursor: pointer; white-space: nowrap; }
+input[type=search] { font: inherit; padding: 5px 8px; border: 1px solid var(--border); border-radius: 6px;
+  background: var(--surface-2); color: var(--ink); width: 200px; max-width: 60vw; }
+button { font: inherit; padding: 4px 10px; border: 1px solid var(--border); border-radius: 6px;
+  background: var(--surface-2); color: var(--ink); cursor: pointer; }
+button:hover { border-color: var(--ink-3); }
+main { display: grid; grid-template-columns: 1fr 340px; min-height: 0; }
+#map { position: relative; min-width: 0; min-height: 0; }
+#map svg { width: 100%; height: 100%; display: block; cursor: grab; }
+#map svg:active { cursor: grabbing; }
+aside { border-left: 1px solid var(--border); overflow-y: auto; padding: 14px 16px 24px; background: var(--surface); }
+aside h2 { font-size: 12px; text-transform: uppercase; letter-spacing: .04em; color: var(--ink-3); margin: 18px 0 6px; font-weight: 600; }
+aside h2:first-child { margin-top: 0; }
+.legend-row { display: flex; align-items: center; gap: 8px; padding: 2px 0; color: var(--ink-2); cursor: pointer; }
+.legend-row.off { opacity: .35; }
+.legend-row svg { flex: none; }
+.legend-static { display: flex; align-items: center; gap: 8px; padding: 2px 0; color: var(--ink-2); }
+#detail .title { font-size: 14px; font-weight: 600; margin: 2px 0 4px; }
+#detail .meta { color: var(--ink-2); margin-bottom: 6px; }
+#detail .note { color: var(--ink-3); font-size: 12px; margin: 6px 0; }
+#detail ul { list-style: none; padding: 0; margin: 0; }
+#detail li { padding: 3px 0; border-bottom: 1px solid var(--surface-2); cursor: pointer; color: var(--ink); display: flex; gap: 6px; align-items: baseline; }
+#detail li:hover { color: var(--accent); }
+#detail li .tag { color: var(--ink-3); font-size: 11px; flex: none; }
+#detail li .dot { width: 8px; height: 8px; border-radius: 50%; flex: none; transform: translateY(-1px); }
+a { color: var(--accent); }
+.hint { color: var(--ink-3); font-size: 12px; }
+#tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--border);
+  border-radius: 6px; padding: 6px 8px; max-width: 300px; font-size: 12px; box-shadow: 0 2px 10px rgba(0,0,0,.12);
+  opacity: 0; transition: opacity .08s; z-index: 5; }
+#tip b { font-weight: 600; }
+#tip .t2 { color: var(--ink-2); }
+.zbtns { position: absolute; right: 12px; bottom: 12px; display: flex; gap: 6px; }
+text.lab { paint-order: stroke; stroke: var(--surface); stroke-width: 3px; stroke-linejoin: round; pointer-events: none; }
+details { margin-top: 14px; }
+details summary { cursor: pointer; color: var(--ink-2); }
+table { border-collapse: collapse; width: 100%; font-size: 12px; margin-top: 6px; }
+th, td { text-align: left; padding: 3px 4px; border-bottom: 1px solid var(--surface-2); vertical-align: top; }
+th { color: var(--ink-3); font-weight: 600; cursor: pointer; }
+td.num { text-align: right; font-variant-numeric: tabular-nums; }
+@media (max-width: 760px) {
+  body { overflow: auto; height: auto; }
+  main { grid-template-columns: 1fr; }
+  #map { height: 70vh; }
+  aside { border-left: 0; border-top: 1px solid var(--border); }
+}
+</style>
+</head>
+<body>
+<header>
+  <h1>Power — citation map</h1>
+  <input type="search" id="q" placeholder="Search title or author…" aria-label="Search papers">
+  <div class="group"><span class="lbl">Show</span>
+    <label class="chk"><input type="checkbox" id="tDirect" checked> Direct citations</label>
+    <label class="chk"><input type="checkbox" id="tShared" checked> Shared references</label>
+    <label class="chk"><input type="checkbox" id="tOutside" checked> Outside papers</label>
+  </div>
+  <div class="group"><span class="lbl">Source</span>
+    <label class="chk"><input type="checkbox" id="sBoth" checked> Both</label>
+    <label class="chk"><input type="checkbox" id="sS2" checked> S2 only</label>
+    <label class="chk"><input type="checkbox" id="sOA" checked> OpenAlex only</label>
+    <label class="chk"><input type="checkbox" id="sList" checked> Clegg's list</label>
+  </div>
+  <div class="group"><span class="lbl">Size</span>
+    <select id="sizeBy" aria-label="Node size"><option value="cited_by">Citations (global)</option><option value="in_set">Cited within this set</option></select>
+  </div>
+  <div class="group" style="margin-left:auto">
+    <button id="fit">Fit</button>
+    <button id="themeBtn" title="Light / dark">◐ Theme</button>
+  </div>
+</header>
+<main>
+  <div id="map"><svg id="svg" role="img" aria-label="Citation network of the Power collection"></svg><div id="tip"></div></div>
+  <aside>
+    <div id="about" class="hint" style="margin-bottom:16px">/*ABOUT*/</div>
+    <div id="detail"><h2>Selection</h2><p class="hint">Click a paper to isolate its links and list what it cites, what cites it, and what it shares references with. Click the background to reset. Drag nodes to rearrange; scroll to zoom.</p></div>
+    <h2>Themes</h2><div id="legendThemes"></div>
+    <h2>Encoding</h2><div id="legendEnc"></div>
+    <h2>Coverage gaps</h2><div id="gaps" class="hint"></div>
+    <details><summary>All papers as a table</summary><div id="table"></div></details>
+  </aside>
+</main>
+<script>
+const DATA = /*DATA*/;
+const ORDER = ["theory", "platform", "infra", "law", "algo", "hci", "other"];
+const SHAPE = { theory: d3.symbolCircle, platform: d3.symbolSquare, infra: d3.symbolTriangle, law: d3.symbolDiamond,
+                algo: d3.symbolStar, hci: d3.symbolWye, other: d3.symbolCross };
+const col = t => `var(--t-${t})`;
+const nodes = DATA.nodes.map(d => ({ ...d }));
+const byId = new Map(nodes.map(d => [d.id, d]));
+const edges = DATA.edges.filter(e => byId.has(e.source) && byId.has(e.target)).map(e => ({ ...e, s: byId.get(e.source), t: byId.get(e.target) }));
+const shared = DATA.shared.filter(e => byId.has(e.source) && byId.has(e.target)).map(e => ({ ...e, s: byId.get(e.source), t: byId.get(e.target) }));
+
+// ---------- sizes and label-aware collision ----------
+let sizeBy = "cited_by";
+const radius = d => {
+  const v = sizeBy === "cited_by" ? d.cited_by : d.in_set * 40;
+  const r = 4 + 3.1 * Math.log10(1 + (v || 0));
+  return d.zotero ? r + 1.5 : r * 0.85;
+};
+const ctx = document.createElement("canvas").getContext("2d");
+const labelShown = d => d.zotero || d.in_set >= 3;
+nodes.forEach(d => {
+  ctx.font = d.zotero ? "600 11.5px -apple-system, system-ui, sans-serif" : "10.5px -apple-system, system-ui, sans-serif";
+  d.lw = ctx.measureText(d.label).width;
+  d.r = radius(d);
+});
+const collideR = d => labelShown(d) ? Math.max(d.r + 3, d.lw / 2 + 5) + 6 : d.r + 3;
+
+// ---------- pre-computed layout ----------
+const centres = {};
+ORDER.forEach((t, i) => { const a = (i / (ORDER.length - 1)) * 2 * Math.PI - Math.PI / 2; centres[t] = t === "other" ? { x: 0, y: 0 } : { x: 520 * Math.cos(a), y: 420 * Math.sin(a) }; });
+const simLinks = [
+  ...edges.map(e => ({ source: e.source, target: e.target, k: e.kind })),
+  ...shared.map(e => ({ source: e.source, target: e.target, k: "shared", w: e.weight })),
+];
+const sim = d3.forceSimulation(nodes)
+  .force("link", d3.forceLink(simLinks).id(d => d.id)
+    .distance(l => l.k === "shared" ? 140 : l.k === "cite" ? 110 : 80)
+    .strength(l => l.k === "shared" ? Math.min(0.5, 0.04 * l.w) : l.k === "cite" ? 0.25 : 0.06))
+  .force("charge", d3.forceManyBody().strength(d => d.zotero ? -320 : -70).distanceMax(700))
+  .force("collide", d3.forceCollide(collideR).iterations(2))
+  .force("x", d3.forceX(d => centres[d.theme].x).strength(d => d.zotero ? 0.05 : 0.025))
+  .force("y", d3.forceY(d => centres[d.theme].y).strength(d => d.zotero ? 0.05 : 0.025))
+  .stop();
+for (let i = 0; i < 500; i++) sim.tick();
+
+// ---------- drawing ----------
+const svg = d3.select("#svg");
+const defs = svg.append("defs");
+[["arrow", "var(--edge)"], ["arrowHi", "var(--edge-hi)"]].forEach(([id, c]) =>
+  defs.append("marker").attr("id", id).attr("viewBox", "0 -4 8 8").attr("refX", 7).attr("refY", 0)
+    .attr("markerWidth", 6).attr("markerHeight", 6).attr("orient", "auto")
+    .append("path").attr("d", "M0,-3.5L8,0L0,3.5Z").attr("fill", c));
+const root = svg.append("g");
+const gShared = root.append("g"), gEdges = root.append("g"), gNodes = root.append("g"), gLabels = root.append("g");
+const DASH = { both: null, s2: "6 4", oa: "1.5 3", list: "8 3 1.5 3" };
+
+const sharedSel = gShared.selectAll("line").data(shared).join("line")
+  .attr("stroke", "var(--shared)").attr("stroke-width", d => 0.6 + d.weight * 0.35).attr("stroke-linecap", "round");
+const edgeSel = gEdges.selectAll("line").data(edges).join("line")
+  .attr("stroke", "var(--edge)").attr("stroke-width", d => d.kind === "cite" ? 1.4 : 0.8)
+  .attr("stroke-dasharray", d => DASH[d.src]).attr("marker-end", "url(#arrow)");
+const nodeSel = gNodes.selectAll("path").data(nodes).join("path")
+  .attr("fill", d => d.zotero ? col(d.theme) : "var(--surface)")
+  .attr("stroke", d => d.zotero ? "var(--surface)" : col(d.theme))
+  .attr("stroke-width", d => d.zotero ? 1.5 : 1.6)
+  .style("cursor", "pointer");
+const labelSel = gLabels.selectAll("text").data(nodes).join("text").attr("class", "lab")
+  .attr("text-anchor", "middle").text(d => d.label)
+  .attr("font-size", d => d.zotero ? 11.5 : 10.5).attr("font-weight", d => d.zotero ? 600 : 400)
+  .attr("fill", d => d.zotero ? "var(--ink)" : "var(--ink-2)");
+
+function shapePath(d) { return d3.symbol().type(SHAPE[d.theme]).size(Math.PI * d.r * d.r * (SHAPE[d.theme] === d3.symbolCircle ? 1 : 0.9))(); }
+function endpoint(a, b, pad) { const dx = b.x - a.x, dy = b.y - a.y, L = Math.hypot(dx, dy) || 1; return [b.x - dx / L * pad, b.y - dy / L * pad]; }
+function draw() {
+  nodeSel.attr("d", shapePath).attr("transform", d => `translate(${d.x},${d.y})`);
+  labelSel.attr("x", d => d.x).attr("y", d => d.y + d.r + 11);
+  edgeSel.each(function (d) {
+    const [x2, y2] = endpoint(d.s, d.t, d.t.r + 3);
+    d3.select(this).attr("x1", d.s.x).attr("y1", d.s.y).attr("x2", x2).attr("y2", y2);
+  });
+  sharedSel.attr("x1", d => d.s.x).attr("y1", d => d.s.y).attr("x2", d => d.t.x).attr("y2", d => d.t.y);
+}
+draw();
+
+// ---------- zoom, pan, drag, fit ----------
+let k = 1;
+const zoom = d3.zoom().scaleExtent([0.08, 8]).on("zoom", ev => { root.attr("transform", ev.transform); k = ev.transform.k; apply(); });
+svg.call(zoom).on("dblclick.zoom", null);
+function fit(animate = true) {
+  const vis = nodes.filter(nodeVisible);
+  if (!vis.length) return;
+  const x0 = d3.min(vis, d => d.x - Math.max(d.r, d.lw / 2)), x1 = d3.max(vis, d => d.x + Math.max(d.r, d.lw / 2));
+  const y0 = d3.min(vis, d => d.y - d.r), y1 = d3.max(vis, d => d.y + d.r + 16);
+  const { width, height } = svg.node().getBoundingClientRect();
+  const s = Math.min(4, 0.92 * Math.min(width / (x1 - x0), height / (y1 - y0)));
+  const t = d3.zoomIdentity.translate(width / 2, height / 2).scale(s).translate(-(x0 + x1) / 2, -(y0 + y1) / 2);
+  (animate ? svg.transition().duration(500) : svg).call(zoom.transform, t);
+}
+nodeSel.call(d3.drag()
+  .on("start", ev => ev.sourceEvent.stopPropagation())
+  .on("drag", (ev, d) => { d.x = ev.x; d.y = ev.y; draw(); }));
+
+// ---------- state ----------
+const st = { direct: true, shared: true, outside: true, src: { both: true, s2: true, oa: true, list: true }, q: "", focus: null, themesOff: new Set() };
+const nodeVisible = d => (d.zotero || st.outside) && !st.themesOff.has(d.theme);
+const edgeVisible = e => nodeVisible(e.s) && nodeVisible(e.t) && st.src[e.src] && (e.kind === "cite" ? st.direct : st.outside);
+const sharedVisible = e => st.shared && nodeVisible(e.s) && nodeVisible(e.t);
+const matches = d => !st.q || (d.label + " " + (d.title || "")).toLowerCase().includes(st.q);
+
+function apply() {
+  let nb = null;
+  if (st.focus) {
+    nb = new Set([st.focus.id]);
+    edges.forEach(e => { if (edgeVisible(e) && (e.s === st.focus || e.t === st.focus)) { nb.add(e.s.id); nb.add(e.t.id); } });
+    shared.forEach(e => { if (sharedVisible(e) && (e.s === st.focus || e.t === st.focus)) { nb.add(e.s.id); nb.add(e.t.id); } });
+  }
+  const lit = d => nb ? nb.has(d.id) : matches(d);
+  nodeSel.attr("display", d => nodeVisible(d) ? null : "none").attr("opacity", d => lit(d) ? 1 : 0.12);
+  labelSel.attr("display", d => {
+    if (!nodeVisible(d)) return "none";
+    if (nb) return nb.has(d.id) ? null : "none";
+    if (st.q) return matches(d) ? null : "none";
+    return labelShown(d) || k > 1.8 ? null : "none";
+  });
+  const touches = e => !st.focus || e.s === st.focus || e.t === st.focus;
+  edgeSel.attr("display", e => edgeVisible(e) && touches(e) ? null : "none")
+    .attr("stroke", e => st.focus ? "var(--edge-hi)" : "var(--edge)")
+    .attr("marker-end", e => st.focus ? "url(#arrowHi)" : "url(#arrow)")
+    .attr("opacity", e => st.focus ? 0.9 : (st.q && !(matches(e.s) || matches(e.t)) ? 0.08 : e.kind === "cite" ? 0.75 : 0.35));
+  sharedSel.attr("display", e => sharedVisible(e) && touches(e) ? null : "none")
+    .attr("stroke", st.focus ? "var(--shared-hi)" : "var(--shared)")
+    .attr("opacity", st.focus ? 0.7 : (st.q ? 0.15 : 0.55));
+}
+
+// ---------- detail panel ----------
+const THEMES = DATA.themes;
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+const srcName = { both: "both", oa: "OpenAlex", s2: "S2", list: "Clegg's list" };
+function item(n, tag) { return `<li data-id="${esc(n.id)}"><span class="dot" style="background:${col(n.theme)};${n.zotero ? "" : "background:transparent;border:1.5px solid " + col(n.theme)}"></span><span>${esc(n.label)} — ${esc((n.title || "").slice(0, 80))}</span><span class="tag">${tag}</span></li>`; }
+function showDetail(d) {
+  const el = document.getElementById("detail");
+  if (!d) { el.innerHTML = `<h2>Selection</h2><p class="hint">Click a paper to isolate its links and list what it cites, what cites it, and what it shares references with. Click the background to reset. Drag nodes to rearrange; scroll to zoom.</p>`; return; }
+  const out = edges.filter(e => e.s === d && edgeVisible(e)), inn = edges.filter(e => e.t === d && edgeVisible(e));
+  const sh = shared.filter(e => (e.s === d || e.t === d) && sharedVisible(e)).sort((a, b) => b.weight - a.weight);
+  const links = [d.doi && `<a href="https://doi.org/${esc(d.doi)}" target="_blank" rel="noopener">DOI</a>`,
+                 d.oa && `<a href="https://openalex.org/${esc(d.oa)}" target="_blank" rel="noopener">OpenAlex</a>`,
+                 d.s2 && `<a href="https://www.semanticscholar.org/paper/${esc(d.s2)}" target="_blank" rel="noopener">Semantic Scholar</a>`].filter(Boolean).join(" · ");
+  el.innerHTML = `<h2>${d.extra ? "Added reading" : d.zotero ? "Zotero paper" : "Outside paper"}</h2>
+    <div class="title">${esc(d.title)}</div>
+    <div class="meta">${esc(d.label)} · ${esc(THEMES[d.theme])}<br>${(d.cited_by || 0).toLocaleString()} citations overall · cited by ${d.in_set} paper${d.in_set === 1 ? "" : "s"} in this map</div>
+    ${links ? `<div class="meta">${links}</div>` : ""}
+    ${d.zotero && d.status !== "resolved" ? `<div class="note">Status: ${esc(d.status)}${d.note ? " — " + esc(d.note) : ""}</div>` : ""}
+    ${d.extra ? `<div class="note">${esc(d.note)} ${d.nrefs} references; arrows show only those that match a paper on this map.</div>` : ""}
+    ${d.zotero && d.noref ? `<div class="note">No reference list in OpenAlex or Semantic Scholar, so what this paper cites is missing.</div>` : ""}
+    <h2>Cites (${out.length})</h2><ul>${out.map(e => item(e.t, srcName[e.src])).join("") || '<li class="hint">—</li>'}</ul>
+    <h2>Cited by (${inn.length})</h2><ul>${inn.map(e => item(e.s, srcName[e.src])).join("") || '<li class="hint">—</li>'}</ul>
+    ${d.zotero ? `<h2>Shares references with (${sh.length})</h2><ul>${sh.map(e => item(e.s === d ? e.t : e.s, e.weight + " shared")).join("") || '<li class="hint">—</li>'}</ul>` : ""}`;
+  el.querySelectorAll("li[data-id]").forEach(li => li.onclick = () => focusOn(byId.get(li.dataset.id), true));
+}
+function focusOn(d, pan) {
+  st.focus = d; showDetail(d); apply();
+  if (d && pan) { const { width, height } = svg.node().getBoundingClientRect(); svg.transition().duration(400).call(zoom.translateTo, d.x, d.y, [width / 2, height / 2]); }
+}
+nodeSel.on("click", (ev, d) => { ev.stopPropagation(); focusOn(st.focus === d ? null : d); });
+svg.on("click", () => focusOn(null));
+
+// ---------- tooltip ----------
+const tip = d3.select("#tip");
+nodeSel.on("mousemove", (ev, d) => {
+  const [x, y] = d3.pointer(ev, document.getElementById("map"));
+  tip.style("opacity", 1).style("left", Math.min(x + 14, document.getElementById("map").clientWidth - 310) + "px").style("top", (y + 14) + "px")
+    .html(`<b>${esc(d.label)}</b><br>${esc(d.title)}<br><span class="t2">${esc(THEMES[d.theme])} · ${(d.cited_by || 0).toLocaleString()} citations · ${d.in_set} in map${d.zotero ? "" : " · not in Zotero"}</span>`);
+}).on("mouseleave", () => tip.style("opacity", 0));
+
+// ---------- controls ----------
+const bind = (id, fn) => document.getElementById(id).addEventListener("change", ev => { fn(ev.target.checked); apply(); if (st.focus) showDetail(st.focus); });
+bind("tDirect", v => st.direct = v); bind("tShared", v => st.shared = v);
+bind("tOutside", v => { st.outside = v; if (!v && st.focus && !st.focus.zotero) focusOn(null); });
+bind("sBoth", v => st.src.both = v); bind("sS2", v => st.src.s2 = v); bind("sOA", v => st.src.oa = v); bind("sList", v => st.src.list = v);
+document.getElementById("q").addEventListener("input", ev => { st.q = ev.target.value.trim().toLowerCase(); apply(); });
+document.getElementById("q").addEventListener("keydown", ev => {
+  if (ev.key !== "Enter") return;
+  const m = nodes.filter(d => nodeVisible(d) && st.q && matches(d)).sort((a, b) => b.zotero - a.zotero || b.cited_by - a.cited_by)[0];
+  if (m) focusOn(m, true);
+});
+document.getElementById("sizeBy").addEventListener("change", ev => { sizeBy = ev.target.value; nodes.forEach(d => d.r = radius(d)); draw(); });
+document.getElementById("fit").onclick = () => fit();
+document.getElementById("themeBtn").onclick = () => {
+  const html = document.documentElement, dark = getComputedStyle(html).colorScheme.includes("dark");
+  html.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("pm-theme", html.dataset.theme); } catch (e) {}
+};
+try { const t = localStorage.getItem("pm-theme"); if (t) document.documentElement.dataset.theme = t; } catch (e) {}
+window.addEventListener("resize", () => fit(false));
+
+// ---------- legend, gaps, table ----------
+const sw = (t, filled) => `<svg width="16" height="16" viewBox="-8 -8 16 16"><path d="${d3.symbol().type(SHAPE[t]).size(70)()}" fill="${filled ? col(t) : "var(--surface)"}" stroke="${filled ? "none" : col(t)}" stroke-width="1.5"/></svg>`;
+const counts = d3.rollup(nodes, v => [v.filter(d => d.zotero).length, v.filter(d => !d.zotero).length], d => d.theme);
+document.getElementById("legendThemes").innerHTML = ORDER.filter(t => counts.has(t)).map(t =>
+  `<div class="legend-row" data-t="${t}" title="Click to hide/show">${sw(t, true)}<span>${esc(THEMES[t])} <span class="hint">(${counts.get(t)[0]} + ${counts.get(t)[1]})</span></span></div>`).join("") +
+  `<p class="hint">(Zotero + outside). Click a theme to hide it. Themes for Zotero papers were assigned from titles and abstracts; outside papers by keyword from title and OpenAlex topic.</p>`;
+document.querySelectorAll(".legend-row[data-t]").forEach(r => r.onclick = () => {
+  const t = r.dataset.t; st.themesOff.has(t) ? st.themesOff.delete(t) : st.themesOff.add(t);
+  r.classList.toggle("off"); apply();
+});
+const line = dash => `<svg width="34" height="10"><line x1="2" y1="5" x2="26" y2="5" stroke="var(--edge-hi)" stroke-width="1.5" ${dash ? `stroke-dasharray="${dash}"` : ""}/><path d="M26,1.5L32,5L26,8.5Z" fill="var(--edge-hi)"/></svg>`;
+document.getElementById("legendEnc").innerHTML = `
+  <div class="legend-static">${sw("theory", true)} Zotero paper (filled, bold label)</div>
+  <div class="legend-static">${sw("theory", false)} Outside paper cited by ≥ 2 Zotero papers</div>
+  <div class="legend-static">${line(null)} Cites — found in both sources</div>
+  <div class="legend-static">${line("6 4")} Cites — Semantic Scholar only</div>
+  <div class="legend-static">${line("1.5 3")} Cites — OpenAlex only</div>
+  <div class="legend-static">${line("8 3 1.5 3")} Cites — Clegg's reference list (Lauren's Zotero)</div>
+  <div class="legend-static"><svg width="34" height="10"><line x1="2" y1="5" x2="32" y2="5" stroke="var(--shared)" stroke-width="3" stroke-linecap="round"/></svg> Shares ≥ 2 references (thicker = more)</div>
+  <p class="hint">Node size: log of citation count (switch above). Shared references = max of the OpenAlex and S2 overlaps, never their sum.</p>`;
+const gaps = nodes.filter(d => d.zotero && (d.noref || d.status !== "resolved"));
+document.getElementById("gaps").innerHTML = `Papers with no reference list in either source (their outgoing links are missing): ` +
+  gaps.map(d => `<a href="#" data-id="${esc(d.id)}">${esc(d.label)}</a>${d.status !== "resolved" ? " (" + esc(d.status) + ")" : ""}`).join(", ") + ".";
+document.querySelectorAll("#gaps a").forEach(a => a.onclick = ev => { ev.preventDefault(); focusOn(byId.get(a.dataset.id), true); });
+let sortKey = "in_set", sortDir = -1;
+function table() {
+  const rows = [...nodes].sort((a, b) => { const x = a[sortKey], y = b[sortKey]; return (x > y ? 1 : x < y ? -1 : 0) * sortDir; });
+  const cols = [["label", "Paper"], ["year", "Year"], ["theme", "Theme"], ["zotero", "Zotero"], ["cited_by", "Cites"], ["in_set", "In map"]];
+  document.getElementById("table").innerHTML = `<table><thead><tr>${cols.map(([k2, n]) => `<th data-k="${k2}">${n}</th>`).join("")}</tr></thead><tbody>` +
+    rows.map(d => `<tr data-id="${esc(d.id)}"><td title="${esc(d.title)}">${esc(d.label)}</td><td>${d.year || ""}</td><td>${esc(THEMES[d.theme].split(" ")[0])}</td><td>${d.zotero ? "✓" : ""}</td><td class="num">${(d.cited_by || 0).toLocaleString()}</td><td class="num">${d.in_set}</td></tr>`).join("") + "</tbody></table>";
+  document.querySelectorAll("#table th").forEach(th => th.onclick = () => { sortDir = sortKey === th.dataset.k ? -sortDir : -1; sortKey = th.dataset.k; table(); });
+  document.querySelectorAll("#table tr[data-id]").forEach(tr => { tr.style.cursor = "pointer"; tr.onclick = () => focusOn(byId.get(tr.dataset.id), true); });
+}
+table();
+apply();
+requestAnimationFrame(() => fit(false));
+</script>
+</body>
+</html>

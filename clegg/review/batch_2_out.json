@@ -1,0 +1,227 @@
+[
+ {
+  "key": "FGZKSJGW",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710087454",
+  "edition_year": 1977,
+  "original_year": 1977,
+  "note": "Auto DOI is a 2013 Routledge Library Editions reprint, not the 1977/79 original; Open Library has RKP 1977 vol. 1 with this ISBN. Zotero says 1979, no 1979 edition found."
+ },
+ {
+  "key": "MXGPAFPE",
+  "status": "not_a_reference",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Duplicate of FGZKSJGW (identical Zotero record); ISBN given on FGZKSJGW."
+ },
+ {
+  "key": "LLW3B22T",
+  "status": "confirmed",
+  "doi": "10.4324/9781315131092",
+  "isbn": null,
+  "edition_year": 2017,
+  "original_year": 1964,
+  "note": "Crossref book record for The Bureaucratic Phenomenon (Routledge 2017 reissue); no 1964 Tavistock ISBN in Open Library, so no ISBN given."
+ },
+ {
+  "key": "BSD5GXUS",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is an OUP 2003 'Introduction' by Crick in a different book (Democracy); no Penguin 1958 Prince edition with Crick intro verified."
+ },
+ {
+  "key": "59V9MVLZ",
+  "status": "confirmed",
+  "doi": "10.4324/9781003408031-8",
+  "isbn": "9780868613666",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "Chapter DOI is the 2023 Routledge reissue of Which Way Is Up? (title wording differs); ISBN is the 1983 Allen & Unwin edition verified in Open Library. Zotero has 'Connell, R. W.' twice."
+ },
+ {
+  "key": "N6QJUMJV",
+  "status": "confirmed",
+  "doi": "10.4324/9781003408031-7",
+  "isbn": "9780868613666",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "Chapter DOI is the 2023 Routledge reissue of the same book; ISBN 1983 Allen & Unwin verified. Zotero has 'Connell, R. W.' twice."
+ },
+ {
+  "key": "2DC2G9BA",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780803999992",
+  "edition_year": 1977,
+  "original_year": 1977,
+  "note": "Auto DOI 10.34191/ri-121 is a Utah geological report; no chapter DOI found. Book ISBN for 'Power, paradigms and community research' (Sage/ISA 1977) verified in Open Library."
+ },
+ {
+  "key": "WEQ5GXJ4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is Palgrave's 'Risk in the Modern Age' (ed. Cohen, 2000), a different book; Open Library has the 1968 Heinemann record with no ISBN."
+ },
+ {
+  "key": "3W5UJNMS",
+  "status": "corrected",
+  "doi": "10.1515/9783110865714.31",
+  "isbn": "9783110118575",
+  "edition_year": 1990,
+  "original_year": 1990,
+  "note": "Chapter DOI verified in Crossref (Clegg, Higgins, Spybey; Capitalism in Contrasting Cultures, 1990). Auto ISBN 9783111788708 replaced by the 1990 de Gruyter print ISBN verified in Open Library. Zotero year 1989 vs 1990 book."
+ },
+ {
+  "key": "TPL2AVNF",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780312756093",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "Auto DOI 10.4324/9781315881539 is the 2013 Routledge reissue book record, not the chapter. OpenAlex lists chapter DOI 10.4324/9781315881539-8 but Crossref does not resolve it, so not used. ISBN 1983 Croom Helm verified."
+ },
+ {
+  "key": "UGA4SL3P",
+  "status": "confirmed",
+  "doi": "10.1177/017084068700800105",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref record confirmed: Clegg 1987, Organization Studies (title wording differs only in the Crossref copy)."
+ },
+ {
+  "key": "IH3XRW7C",
+  "status": "confirmed",
+  "doi": "10.1177/144078338602200128",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref confirms Clegg's 1986 ANZJS review of Giddens' The Constitution of Society; accepted because the Zotero item is this review. Lauren to confirm the cited item is the review."
+ },
+ {
+  "key": "D7DVK2L3",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is Weale's chapter in Political Theory and Social Policy; no Crossref or Open Library match for Clegg, Crouch & Heller 1983 yearbook chapter."
+ },
+ {
+  "key": "GG7FRYQ3",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710085061",
+  "edition_year": 1977,
+  "original_year": 1977,
+  "note": "Auto DOI 10.4324/9780203810279.ch17 is a Clegg & Gray chapter in a 2010s Routledge Companion, not this chapter. Book ISBN for Critical Issues in Organizations (RKP 1977) verified. Zotero lists 'Clegg, S. R.' twice."
+ },
+ {
+  "key": "L4Q7DDP2",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780674226005",
+  "edition_year": 1962,
+  "original_year": 1962,
+  "note": "Auto DOI is a 2016 Brazilian book (Work in Brazil); Open Library confirms Harvard/Belknap 1962 edition of this title with this ISBN."
+ },
+ {
+  "key": "IRICK5HJ",
+  "status": "confirmed",
+  "doi": "10.1177/003232927300300202",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref confirms Garson 1973, Politics & Society (Crossref title has a typo, 'Automoble')."
+ },
+ {
+  "key": "LFVJ2V9C",
+  "status": "confirmed",
+  "doi": "10.1080/03085148600000018",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref confirms Gane 1986, Economy and Society, same title as the Zotero review item; accepted as the item itself. Lauren to confirm this review is the one cited."
+ },
+ {
+  "key": "PMKHS9P4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is Jillson's 2024 American Government (Routledge), unrelated; no Friedrich 1937 Ginn edition with ISBN found."
+ },
+ {
+  "key": "YNDU9659",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780226264028",
+  "edition_year": 1956,
+  "original_year": 1953,
+  "note": "Auto DOI 10.2307/2551326 is a 1954 Economica review, rejected. University of Chicago Press 1956 printing of Essays in Positive Economics verified in Open Library (first ed. 1953)."
+ },
+ {
+  "key": "AP3PBVPS",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780814750308",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI is an unrelated Bloomsbury chapter. Lukes (ed.) Power, NYU Press 1986 ISBN verified in Open Library; the Blackwell 1986 original was not found there."
+ },
+ {
+  "key": "RULJW632",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 1980 Psychosomatics review of Vol. I; Open Library has no ISBN for the 1984 Peregrine edition."
+ },
+ {
+  "key": "M78GYXHP",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI 10.3817/0383055195 is a 1983 Telos interview with Raulet, not Ideology and Consciousness 1981; no DOI found for this interview."
+ },
+ {
+  "key": "BXDBP2EK",
+  "status": "confirmed",
+  "doi": "10.1093/screen/20.1.13",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref confirms Foucault, Screen 1979 (Zotero DOI). Auto DOI 10.2307/2930205 is a 1987 Yale French Studies piece, rejected."
+ },
+ {
+  "key": "MURMYREH",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI 10.1093/bjc/40.2.321 is Rose's 2000 British Journal of Criminology article, rejected; no DOI found for Foucault 1979 Ideology and Consciousness."
+ },
+ {
+  "key": "UCWVSXMR",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780312756093",
+  "edition_year": 1983,
+  "original_year": 1983,
+  "note": "Auto DOI 10.1007/978-1-349-03076-7_2 is Corry's 1978 Keynes chapter, rejected. Book ISBN for The State, class and the recession (Croom Helm 1983) verified; chapter DOI not found."
+ }
+]

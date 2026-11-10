@@ -1,0 +1,16 @@
+{
+ "key": "H79URSEL",
+ "title": "Detecting and Measuring Client- and Server-Side Google Tag Manager and its Tags in 80K Websites",
+ "short_label": "Mertens 2026",
+ "year": 2026,
+ "doi": null,
+ "oa": "W7125568819",
+ "s2": null,
+ "cites": 0,
+ "oa_refs": [],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Semantic Scholar: no candidate returned by candidates search, so no S2 ID. OpenAlex record W7125568819 is a preprint (no DOI), first author and year match. Other OpenAlex hits (W7128279948 different title, W7164551210 dataset) rejected as different works.",
+ "oa_title": "Detecting and Measuring Client- and Server-Side Google Tag Manager and its Tags in 80K Websites",
+ "abstract": "Google Tag Manager (GTM) enables website Publishers to install analytics, advertising, and other tracking services as \"Tags\" on their websites. Traditionally, in Client-Side GTM, Tags collect and send data directly from the browser to third-party servers. However, as today's browsers and extensions increasingly block third-party trackers, Google introduced a Server-Side GTM in 2020. This GTM version allows to install and execute Tags directly on a first-party server, thus hiding the presence of third-party trackers. In this study, we perform a crawl of 80K popular websites worldwide to analyze the adoption of Client-and Server-Side GTM and the prevalence of their Tags. Our results show that GTM is present on 28.8% of websites, with 6.7% of these sites obfuscating its presence. Our Tags detection methodology is able to measure the prevalence of all GTM Tags -Official, Template, HTML and Image Tags -globally and reveals a strong dominance of Tags provided by Google, which appear on 95.3% of sites. We further analyze 386K HTML Tags and find that they invoke third-party libraries on at least 81.2% of websites, to potentially share personal data. Finally, we detect the presence of Server-Side GTM on 3K websites and 398 Server-Side Tags instances on the Web. We also propose a GTM-Eye browser extension that detects GTM and its Tags accessible to everyone."
+}

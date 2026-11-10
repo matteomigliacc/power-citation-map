@@ -1,0 +1,655 @@
+[
+ {
+  "key": "MU9WL97S",
+  "zotero_type": "manuscript",
+  "title": "Capitalism, nation states and surveillance",
+  "authors": [
+   "Jessop, B."
+  ],
+  "zotero_year": "1987",
+  "book_title": null,
+  "journal": null,
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1017/cbo9780511557699.006",
+   "title": "Capitalism, nation-states and surveillance",
+   "year": 1989,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "P7SP4GDA",
+  "zotero_type": "journalArticle",
+  "title": "Review of “new technology as organizational innovation”, edited by J. M. Pennings and a. Buitendam",
+  "authors": [
+   "Jelinek, M."
+  ],
+  "zotero_year": "1987",
+  "book_title": null,
+  "journal": "Academy of Management Executive",
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.5465/ame.1987.4275773",
+   "title": "New Technology as Organizational InnovationNew Technology as Organizational Innovation.Edited by PenningsJohannes M. and BuitendamArend. The Management of Innovation and Change Series, TushmanMichael and Van de VenAndrew, Series Editors. Cambridge, MA: Ballinger Publishing Company, 1987. 308 pages. $29,95.",
+   "year": 1987,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "QTUTZSXF",
+  "zotero_type": "book",
+  "title": "Community power structure",
+  "authors": [
+   "Hunter, F."
+  ],
+  "zotero_year": "1953",
+  "book_title": null,
+  "journal": null,
+  "publisher": "University of North Carolina Press",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/1054177",
+   "title": "Community Power Structure",
+   "year": 1954,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "title": "Community power structure"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "NV9C7V4U",
+  "zotero_type": "book",
+  "title": "An enquiry concerning human understanding",
+  "authors": [
+   "Hume, D."
+  ],
+  "zotero_year": "1902",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Clarendon Press",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1093/owc/9780199549900.001.0001",
+   "title": "An Enquiry concerning Human Understanding",
+   "year": 2008,
+   "type": "edited-book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": {
+   "title": "An enquiry concerning human understanding"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "TTPY6S7J",
+  "zotero_type": "bookSection",
+  "title": "Power, repression, progress: Foucault, lukes and the frankfurt school",
+  "authors": [
+   "Hoy, D. C.",
+   "Hoy, D. C."
+  ],
+  "zotero_year": "1986",
+  "book_title": "Foucault: a critical reader",
+  "journal": null,
+  "publisher": "Blackwell",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315817309-13",
+   "title": "Empowerment and repression",
+   "year": 2014,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "HZ3IQMTQ",
+  "zotero_type": "bookSection",
+  "title": "Against nostalgia: Talcott parsons and a sociology for the modern world",
+  "authors": [
+   "Holton, R. J.",
+   "Turner, B. S.",
+   "Holton, R. J."
+  ],
+  "zotero_year": "1986",
+  "book_title": "Talcott parsons on economy and society",
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/978-1-349-26616-6_8",
+   "title": "Talcott Parsons",
+   "year": 1998,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780710207463",
+   "title": "Talcott Parsons on economy and society",
+   "edition_year": 1986,
+   "publisher": "Routledge & Kegan Paul",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "64WN47QE",
+  "zotero_type": "book",
+  "title": "The social limits to growth",
+  "authors": [
+   "Hirsch, F."
+  ],
+  "zotero_year": "1978",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4159/harvard.9780674497900",
+   "title": "Social Limits to Growth",
+   "year": 1976,
+   "type": "edited-book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "4RG5HBMP",
+  "zotero_type": "bookSection",
+  "title": "The nature of feudalism",
+  "authors": [
+   "Hintze, O.",
+   "Cheyette, F. L."
+  ],
+  "zotero_year": "1968",
+  "book_title": "Lordship and community in medieval europe",
+  "journal": null,
+  "publisher": "Holt, Rinehart and Winston",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1515/9783110821796",
+   "title": "Handbuch der Mineralogie. Neue Mineralien und neue Mineralnamen (mit Nachträgen, Richtigstellungen und Ergänzungen)",
+   "year": 1968,
+   "type": "book",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780882752839",
+   "title": "Lordship and community in medieval Europe",
+   "edition_year": 1975,
+   "publisher": "R. E. Krieger Pub. Co.",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "AVL9PMWV",
+  "zotero_type": "bookSection",
+  "title": "Classes, collectivities and corporate actors",
+  "authors": [
+   "Hindess, B.",
+   "Clegg, S. R."
+  ],
+  "zotero_year": "1989",
+  "book_title": "Organizational theory and class analysis: New approaches and new issues",
+  "journal": null,
+  "publisher": "De Gruyter",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1515/9783110874136-007",
+   "title": "Classes, Collectivities and Corporate Actors",
+   "year": 1990,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "high",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "N9ZZCLZF",
+  "zotero_type": "bookSection",
+  "title": "Rationality and the characterization of modern society",
+  "authors": [
+   "Hindess, B.",
+   "Whimster, S.",
+   "Lash, S."
+  ],
+  "zotero_year": "1987",
+  "book_title": "Max weber, rationality and modernity",
+  "journal": null,
+  "publisher": "Allen and Unwin",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315823935-9",
+   "title": "Rationality and the Characterization of Modern Society",
+   "year": 2014,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": {
+   "isbn": "9780043012345",
+   "title": "Max Weber, Rationality and Modernity",
+   "edition_year": 1987,
+   "publisher": "Allen & Unwin",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "BLPJSXB8",
+  "zotero_type": "bookSection",
+  "title": "“Interests” in political analysis",
+  "authors": [
+   "Hindess, B.",
+   "Law, J."
+  ],
+  "zotero_year": "1986",
+  "book_title": "Power, action and belief: a new sociology of knowledge?",
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315249032-17",
+   "title": "Politics as Government: Michel Foucault’s Analysis of Political Reason",
+   "year": 2017,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780710208026",
+   "title": "Power, action, and belief",
+   "edition_year": 1986,
+   "publisher": "Routledge & Kegan Paul",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "XHBU3G7K",
+  "zotero_type": "book",
+  "title": "Elitism",
+  "authors": [
+   "Higley, J.",
+   "Field, L."
+  ],
+  "zotero_year": "1976",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Routledge and Kegan Paul",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1163/ej.9789004179394.i-230",
+   "title": "Democratic Elitism",
+   "year": 2010,
+   "type": "book",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "8UY98FWL",
+  "zotero_type": "book",
+  "title": "The limits of capital",
+  "authors": [
+   "Harvey, D."
+  ],
+  "zotero_year": "1982",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Blackwell",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1057/9781137319944",
+   "title": "The Limits to Capital in Spain",
+   "year": 2014,
+   "type": "book",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "8KKXK6ZF",
+  "zotero_type": "bookSection",
+  "title": "The problem of ideology: Marxism without guarantees",
+  "authors": [
+   "Hall, S.",
+   "Matthews, B."
+  ],
+  "zotero_year": "1983",
+  "book_title": "Marx: a hundred years on",
+  "journal": null,
+  "publisher": "Lawrence and Wishart",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/j.ctv1j9mjwm.9",
+   "title": "The Problem of Ideology:",
+   "year": 2021,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780853155669",
+   "title": "Marx, a hundred years on",
+   "edition_year": 1983,
+   "publisher": "Lawrence & Wishart",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "SGE4IAGC",
+  "zotero_type": "book",
+  "title": "Reason and the rationalization of society",
+  "authors": [
+   "Habermas, J."
+  ],
+  "zotero_year": "1984",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Heinemann Educational Books",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/2185595",
+   "title": "The Theory of Communicative Action. Vol. 1: Reason and the Rationalization of Society.",
+   "year": 1986,
+   "type": "article",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "ERVGMZ2R",
+  "zotero_type": "book",
+  "title": "Legitimation crisis",
+  "authors": [
+   "Habermas, J."
+  ],
+  "zotero_year": "1976",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Heinemann Educational Books",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1057/978-1-137-59246-0",
+   "title": "The Legitimation Crisis of Neoliberalism",
+   "year": 2017,
+   "type": "book",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "SWT7VFZF",
+  "zotero_type": "book",
+  "title": "Knowledge and human interests",
+  "authors": [
+   "Habermas, J."
+  ],
+  "zotero_year": "1972",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Heinemann Educational Books",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/588338",
+   "title": "Knowledge and Human Interests",
+   "year": 1972,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "3KECQL6X",
+  "zotero_type": "thesis",
+  "title": "On reading foucault, genealogy and power-knowledge",
+  "authors": [
+   "Girdwood, I."
+  ],
+  "zotero_year": "1987",
+  "book_title": null,
+  "journal": null,
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9780203358917_chapter_9",
+   "title": "AFTER READING FOUCAULT",
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "CDSMGI3E",
+  "zotero_type": "book",
+  "title": "Marx's method: Ideology, science and critique in `capital'",
+  "authors": [
+   "Sayer, D."
+  ],
+  "zotero_year": "1979",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Harvester",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/1854919",
+   "title": "Marx's Method: Ideology, Science and Critique in Capital",
+   "year": 1980,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "3JGBN8H6",
+  "zotero_type": "book",
+  "title": "The social theory of talcott parsons",
+  "authors": [
+   "Savage, S."
+  ],
+  "zotero_year": "1982",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Macmillan",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/2023735",
+   "title": "The Social Theories of Talcott Parsons: A Critical Examination.",
+   "year": 1962,
+   "type": "article",
+   "via": "openalex"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "TYP7GP5S",
+  "zotero_type": "journalArticle",
+  "title": "High tech as villain: On wall street, computer programs came to replace individual judgement",
+  "authors": [
+   "Sanger, D. E."
+  ],
+  "zotero_year": "1987",
+  "book_title": null,
+  "journal": "International Herald Tribune",
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1108/eb047675",
+   "title": "The Computer and Personal Privacy, Part I: The Individual Under Assault",
+   "year": 1987,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "MDJCLXAW",
+  "zotero_type": "bookSection",
+  "title": "An initial investigation of the usability of conversational data for doing sociology",
+  "authors": [
+   "Sacks, H.",
+   "Sudnow, D."
+  ],
+  "zotero_year": "1972",
+  "book_title": "Studies in social interaction",
+  "journal": null,
+  "publisher": "Free Press",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/978-1-349-12345-2_7",
+   "title": "Personal Data",
+   "year": 1993,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "isbn": "9780029323601",
+   "title": "Studies in social interaction",
+   "edition_year": 1972,
+   "publisher": "Free Press",
+   "via": "openlibrary"
+  },
+  "auto_isbn_conf": "medium"
+ },
+ {
+  "key": "LLL5QQNH",
+  "zotero_type": "bookSection",
+  "title": "The forms of power",
+  "authors": [
+   "Russell, B.",
+   "Lukes, S."
+  ],
+  "zotero_year": "1986",
+  "book_title": "Power",
+  "journal": null,
+  "publisher": "Blackwell",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.4324/9781315250601-16",
+   "title": "The Forms of Power",
+   "year": 2017,
+   "type": "book-chapter",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "medium",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "2W672H8U",
+  "zotero_type": "book",
+  "title": "Power: a new social analysis",
+  "authors": [
+   "Russell, B."
+  ],
+  "zotero_year": "1938",
+  "book_title": null,
+  "journal": null,
+  "publisher": "Allen and Unwin",
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.2307/2084218",
+   "title": "Power: A New Social Analysis.",
+   "year": 1939,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": {
+   "title": "Power, a new social analysis"
+  },
+  "auto_isbn_conf": "none"
+ },
+ {
+  "key": "FJBWSZMV",
+  "zotero_type": "journalArticle",
+  "title": "Goffman on power",
+  "authors": [
+   "Rogers, M."
+  ],
+  "zotero_year": "1977",
+  "book_title": null,
+  "journal": "American Sociologist",
+  "publisher": null,
+  "zotero_doi": null,
+  "zotero_isbn": null,
+  "auto_doi": {
+   "doi": "10.1007/bf00206983",
+   "title": "The arrangement between the sexes",
+   "year": 1977,
+   "type": "journal-article",
+   "via": "crossref"
+  },
+  "auto_doi_conf": "low",
+  "auto_isbn": null,
+  "auto_isbn_conf": "none"
+ }
+]

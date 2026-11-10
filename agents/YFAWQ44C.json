@@ -1,0 +1,18 @@
+{
+ "key": "YFAWQ44C",
+ "title": "The Network Society Revisited",
+ "short_label": "Castells 2023",
+ "year": 2023,
+ "doi": "10.1177/00027642221092803",
+ "oa": "W4293079111",
+ "s2": "3ea5246743f9738b948d0f8569033f0f1bf129d8",
+ "cites": 144,
+ "oa_refs": [
+  "W3042570743"
+ ],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "OpenAlex record year 2022 vs 2023 in the library entry (online-first vs print year); accepted on DOI and title match. OpenAlex lists only 1 referenced work, possibly sparse. | S2 reference list null (publisher elided)",
+ "oa_title": "The Network Society Revisited",
+ "abstract": "The theory of the network society, in my own version, was originally elaborated in the book that, under the title The Rise of the Network Society, I published in 1996. It was revised and updated in the 2000 and 2010 editions. However, the significant social change that has taken place on a global scale in the last decade provides an opportunity to reassess its heuristic value. Therefore, in this text, I will attempt to consider the currency of the theory of the network society when confronted with these changes."
+}

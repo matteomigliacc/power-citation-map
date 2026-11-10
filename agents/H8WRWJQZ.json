@@ -1,0 +1,16 @@
+{
+ "key": "H8WRWJQZ",
+ "title": "Computer Says No!: The Impact of Automation on the Discretionary Power of Public Officers",
+ "short_label": "Elyounes 2021",
+ "year": 2021,
+ "doi": null,
+ "oa": "W3161753998",
+ "s2": "fe44697ac33138ae976b5beaad02b23a3b4e6f16",
+ "cites": 5,
+ "oa_refs": [],
+ "s2_refs": [],
+ "doubtful": false,
+ "notes": "Year not in Zotero; taken from matched OpenAlex (2021) and S2 (2021) records, both agree. OpenAlex lists first author as \"Doa A. Elyounes\" (given-name spelling differs from Zotero \"Doaa\"); surname and title match, so accepted. OpenAlex reported n_refs 0 in the candidate listing; reference list fetched at write time. | S2 reference list null (publisher elided)",
+ "oa_title": "“Computer Says No!”: The Impact of Automation on the Discretionary Power of Public Officers",
+ "abstract": "The goal of this paper is to unpack the “human in the loop” requirement in the process of automation. It will analyze the impact of automation on street-level bureaucrats, and lay out the steps policy makers need to take into account to¸ ensure that meaningful human discretion is maintained. This issue will be examined comparatively through two cases related to the use of automation to detect and investigate fraud in welfare benefits, that have been brought recently before the court. The first algorithm is deployed in Michigan by the Unemployment Insurance Agency for detecting and investigating unemployment fraud. This algorithm is a decision making algorithm with very broad and draconian capabilities including deciding on cutting individuals’ benefits. The second algorithm is deployed in the Netherlands by the Ministry of Social Affairs and Employment to detect different types of welfare fraud. This algorithm is a decision aiding algorithm that automates the process of data collection and analysis, but the final determination is kept in the hands of the relevant fraud examiner.\r\n\r\nThe paper concludes that both algorithms could do more to maintain meaningful discretion. In Michigan, after the automation, the room left for street-level bureaucrats to apply discretion is very narrow. Thus, it is suggested that the automated tasks should be narrowed down to include only few segments of the unemployment fraud detection and investigation process. In contrast, the Netherlands’ algo"
+}

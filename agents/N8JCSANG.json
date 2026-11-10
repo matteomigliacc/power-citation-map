@@ -1,0 +1,41 @@
+{
+ "key": "N8JCSANG",
+ "title": "Mapping the Democratization of AI on GitHub",
+ "short_label": "Burkhardt 2019",
+ "year": 2019,
+ "doi": null,
+ "oa": "W4230775315",
+ "s2": "555d0adc00b078145b084a51ca8eae15185acdee",
+ "cites": 8,
+ "oa_refs": [
+  "W2005018541",
+  "W2336171935",
+  "W2531099434",
+  "W2769068715",
+  "W2972464300",
+  "W3122548859",
+  "W3217149957",
+  "W6769310503",
+  "W6786000233"
+ ],
+ "s2_refs": [
+  "1b262ca883df3d5b1005fb8eecdf75b99304ffc8",
+  "42c9a102e85efb6f02fc4efac1978a7f742ef313",
+  "4a2198b4ac878698392a8eb6d925f4f826a07646",
+  "4f6b7f8daa322801887b2ef8c2c14788e607e3b8",
+  "660ff427b97bda39a007687b777a3e1fae56be9d",
+  "679a61878dba9f7fa530dec9944dc690dbf6209d",
+  "98a0ea52ccc31bacbb59c2e26ece9f7389abb00f",
+  "9eca724e2b8e7a20fa1b05b8a9398f86a24b86d6",
+  "b405531a7512d9dea594991486c99c75cb349923",
+  "c9d18d54c27e34bc1f0ba479a9b31b28dcff4453",
+  "d218a3064a2791bec7aebeb38ca93416fb2d6e88",
+  "eed6a39213b26d456b3a2b591e1b18a4a2bb35ee",
+  "f69ef0bf200317185e45eddc87c449fa3bc25594",
+  "f82040b618b1dfb3fe2ff2a35540d645d3d875d4",
+  "ff871b8a2f6beb3345aa02bef69e69d1daed53ad"
+ ],
+ "doubtful": true,
+ "notes": "Zotero has no year and no DOI; year 2019 taken from matched OpenAlex and S2 records. Two versions exist: OpenAlex W4230775315 (book chapter, DOI 10.1515/9783839447192-013, exact title) is used for OA; S2 record 555d0adc has DOI 10.25969/mediarep/13541, which is OpenAlex W3011049750 (\"...A First Approach\", same author and year, not used). Version ambiguity, hence doubtful.",
+ "oa_title": "Mapping the Democratization of AI on GitHub"
+}

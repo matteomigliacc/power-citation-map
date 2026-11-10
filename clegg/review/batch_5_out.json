@@ -1,0 +1,227 @@
+[
+ {
+  "key": "AWHQ5455",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Ray 1986 thesis: no Crossref/OpenAlex match for this title; auto DOI 10.2307/25143282 is a different work (\"Dying for Work\"), rejected."
+ },
+ {
+  "key": "TXGF5T43",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Przeworski 1980 in Political Power and Social Theory: no Crossref match; auto DOI is a Politics & Society article with a different title, rejected."
+ },
+ {
+  "key": "TET2W8RK",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Poulantzas 1973 NLB: auto DOI 10.2307/2064120 is a 1976 review of the book, rejected; Open Library lists no ISBN editions for this work."
+ },
+ {
+  "key": "YNDJZVUM",
+  "status": "confirmed",
+  "doi": "10.4324/9780203538074",
+  "isbn": "9780061313769",
+  "edition_year": 1968,
+  "original_year": null,
+  "note": "Auto DOI is the Routledge Classics book record (type book, same work) and accepted; ISBN is the Harper & Row printing (1968), closest verifiable edition to Zotero 1965 Harper Torchbooks."
+ },
+ {
+  "key": "PTVEJDHQ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Parsons 1967 Free Press: auto DOI 10.2307/2091920 is a 1968 review, rejected; no ISBN editions found in Open Library."
+ },
+ {
+  "key": "4W5VITXA",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Parsons 1963 Proc. Am. Philos. Soc.: no Crossref match; auto DOI 10.1086/267148 is Public Opinion Quarterly \"On the Concept of Influence\", rejected."
+ },
+ {
+  "key": "2BS7KMDB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Parry et al. 1974 chapter: auto DOI is a Decision Sciences \"Editorial Comment\", rejected; no chapter DOI or ISBN found."
+ },
+ {
+  "key": "42GA275Y",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Parkin et al. 1976 chapter: only DOI found is the 1982 Macmillan anthology \"Classes, Power, and Conflict\" (later reprint, rejected); no DOI for the 1976 Sage volume."
+ },
+ {
+  "key": "8IG2U44N",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Offe & Wiesenthal 1980/81: auto DOI is a 1988 Economic and Industrial Democracy article, rejected; the only Crossref match is a 2018 German anthology reprint (rejected); original not in Crossref."
+ },
+ {
+  "key": "D2UKNHGG",
+  "status": "confirmed",
+  "doi": "10.1007/978-1-349-02133-8_1",
+  "isbn": "9781349021352",
+  "edition_year": 1975,
+  "original_year": null,
+  "note": "Chapter DOI title, container \"Essays on the Study of Urban Politics\" and year 1975 match; ISBN resolves to that 1975 book in Open Library. Zotero lists \"Newton, K.\" twice."
+ },
+ {
+  "key": "BLYYFCVU",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Mosca, The Ruling Class 1939: auto DOI 10.1017/cbo9781139085076 is a different Cambridge book (\"Ruling Class, Ruling Culture\"), rejected; no ISBN editions found."
+ },
+ {
+  "key": "9KL2ZSBJ",
+  "status": "confirmed",
+  "doi": null,
+  "isbn": "9780710207647",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "ISBN resolves to \"Towards a critique of Foucault\" (Routledge & K. Paul, 1986), matching the book_title. Auto DOI 10.1007/978-1-349-18405-7_7 is a Spanish socialism chapter, rejected; no chapter DOI found."
+ },
+ {
+  "key": "22CWMTFU",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780029212509",
+  "edition_year": 1966,
+  "original_year": null,
+  "note": "Auto DOI is a 1993 Political Parties and the State record, rejected. Open Library: Free Press \"Political Parties\" (1966 printing, same Michels work); no 1949 edition with ISBN found."
+ },
+ {
+  "key": "78YL4UN7",
+  "status": "confirmed",
+  "doi": "10.1007/bf00135695",
+  "isbn": null,
+  "edition_year": 1987,
+  "original_year": null,
+  "note": "Zotero item is a manuscript; the Crossref/OpenAlex record for Meyer 1987 \"The growth of public and private bureaucracies\" in Theory and Society (same title, author, year) is verified. Link the Zotero item to the published article."
+ },
+ {
+  "key": "RX5EKA4J",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780313223464",
+  "edition_year": 1980,
+  "original_year": 1958,
+  "note": "Auto DOI 10.2307/2088918 is a 1958 American Sociological Review review by Sereno & Meisel, rejected. Open Library: Greenwood 1980 reprint of Meisel, The Myth of the Ruling Class (1958; 1962 foreword). No 1962 Michigan edition with ISBN found."
+ },
+ {
+  "key": "3J5ZZAH3",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "McHoul 1986 Toronto Semiotic Circle pamphlet: auto DOI 10.1007/978-1-349-17273-3 is a different Wittgenstein book, rejected; no ISBN found."
+ },
+ {
+  "key": "MVVABFGN",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Martin, Dunkerley & Salaman 1980 chapter: auto DOI 10.1007/978-1-349-04713-0_4 is Sloane, \"The Structure of Labour Markets and Low Pay for Women\" in a different volume, rejected."
+ },
+ {
+  "key": "L6YT6LRB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Mann 1980 Political Power and Social Theory: auto DOI 10.1080/13501763.2021.1992482 is an unrelated 2021 article, rejected; no Crossref match or ISBN found."
+ },
+ {
+  "key": "FUGY7XPB",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Macpherson 1962 Clarendon: auto DOI 10.2307/445866 is a 1963 review, rejected; Open Library search found no editions with ISBN."
+ },
+ {
+  "key": "U9G79I2B",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "MacIntyre 1962 chapter in Philosophy, Politics and Society (2nd series): auto DOI 10.1007/978-94-010-1823-4_8 is a different chapter, rejected; Open Library ISBN found is the 1956 first series, not this volume."
+ },
+ {
+  "key": "P42FQYX6",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Machiavelli, Discourses (Penguin 1970): auto DOI 10.4135/9781446221785 is a Sage book on discourse, rejected; Open Library lists only other translations/editions (e.g. Modern Library combined volume), not verified as this edition."
+ },
+ {
+  "key": "YZ8ZSA52",
+  "status": "confirmed",
+  "doi": null,
+  "isbn": "9780631169420",
+  "edition_year": 1988,
+  "original_year": null,
+  "note": "ISBN resolves to \"Europe and the Rise of Capitalism\" (Basil Blackwell, 1988), the volume containing the chapter. Auto chapter DOI 10.1017/cbo9780511572722.005 is a different chapter, dropped; no chapter DOI found."
+ },
+ {
+  "key": "SITVKMAJ",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Zeraffa 1976 Peregrine: auto DOI 10.1017/cbo9780511549496 is a different Cambridge book, rejected; no ISBN editions found in Open Library."
+ },
+ {
+  "key": "Z8HCCE95",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Wittgenstein, Philosophical Investigations (Blackwell 1968): auto DOI 10.2307/2217461 is a 1967 book review, rejected; Open Library PI work has no ISBN editions (other hits are Preliminary Studies)."
+ },
+ {
+  "key": "Y7HW7HWD",
+  "status": "confirmed",
+  "doi": null,
+  "isbn": "9780631169420",
+  "edition_year": 1988,
+  "original_year": null,
+  "note": "ISBN is the Europe and the Rise of Capitalism volume (Blackwell 1988) that contains the chapter. Auto DOI 10.4324/9780429306198 is an unrelated 2019 West Germany book, rejected; no chapter DOI found."
+ }
+]

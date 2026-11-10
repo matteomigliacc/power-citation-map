@@ -1,0 +1,182 @@
+[
+ {
+  "key": "GF6AQFHR",
+  "status": "found",
+  "doi": null,
+  "isbn": "9780814750308",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto Columbia 2017 chapter DOI is from another book, rejected. Lukes ed. 'Power' NYU 1986 ISBN (same volume; Blackwell 1986 ISBN not in Open Library)."
+ },
+ {
+  "key": "X9NBZ28P",
+  "status": "confirmed",
+  "doi": "10.4324/9780203995808",
+  "isbn": null,
+  "edition_year": 2005,
+  "original_year": null,
+  "note": "Routledge 2005 ebook DOI record is this book (Protestant Ethic); auto ISBN was title-only. No 1976 Allen and Unwin ISBN found."
+ },
+ {
+  "key": "TU8JRXAH",
+  "status": "confirmed",
+  "doi": "10.4324/9780203759240",
+  "isbn": null,
+  "edition_year": 2014,
+  "original_year": null,
+  "note": "Crossref book record 'From Max Weber: Essays in Sociology' (Gerth and Mills, Routledge 2014). No 1948 ISBN found."
+ },
+ {
+  "key": "2EKSV9K6",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780684836409",
+  "edition_year": 1997,
+  "original_year": null,
+  "note": "Auto DOI 10.2307/2086579 is a 1948 ASR review, rejected. Free Press 1997 ISBN of the same translation (1947 edition not in Open Library)."
+ },
+ {
+  "key": "7VFL5GUY",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 1936 Historical Research article by Wearmouth, a different item. Open Library has 1937/1972 editions with no ISBN; no 1939 record found."
+ },
+ {
+  "key": "RKACCGUP",
+  "status": "confirmed",
+  "doi": "10.1525/9780520948570",
+  "isbn": null,
+  "edition_year": 2011,
+  "original_year": null,
+  "note": "UC Press 2011 monograph record 'The Modern World-System I' (same work, later reissue). No 1974 Academic Press ISBN found."
+ },
+ {
+  "key": "J6CLMIEC",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780710207463",
+  "edition_year": 1986,
+  "original_year": null,
+  "note": "Auto DOI 10.1007/978-1-349-18218-3 is 'Malthus and His Time', rejected. Chapter in 'Talcott Parsons on economy and society' (Routledge and Kegan Paul 1986); no chapter DOI."
+ },
+ {
+  "key": "AFC4QWY5",
+  "status": "confirmed",
+  "doi": "10.64590/usa",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Crossref journal-article, New Left Review 1977, 'The Rule of Capital and the Rise of Democracy' (Zotero title says 'bourgeois democracy')."
+ },
+ {
+  "key": "JCYCQAL2",
+  "status": "confirmed",
+  "doi": "10.1177/048661347400600207",
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Zotero DOI matches Crossref: same title, 1974, Review of Radical Political Economics."
+ },
+ {
+  "key": "AKBPMTLW",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780824082154",
+  "edition_year": 1987,
+  "original_year": null,
+  "note": "Auto DOI 10.1016/s0742-3322(00)17019-6 is an Advances in Strategic Management reprint and 10.4324/9780203629130-5 a 2013 Routledge reprint, both rejected. Garland 1987 reprint of 'Handbook of Organizations' (1965 Rand McNally ISBN not found)."
+ },
+ {
+  "key": "BKSC2ZJK",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780803926813",
+  "edition_year": 1987,
+  "original_year": null,
+  "note": "Auto DOI 10.5149/northcarolina/9781469643496.003.0001 is a 2018 chapter from another book, rejected. Sage 1987 ISBN of 'Power Elites and Organizations'. Zotero lists Domhoff and Dye, who are the editors, as authors."
+ },
+ {
+  "key": "G5EEBYCX",
+  "status": "confirmed",
+  "doi": "10.1017/cbo9780511815805",
+  "isbn": "9780521224390",
+  "edition_year": 1979,
+  "original_year": null,
+  "note": "Crossref monograph 'States and Social Revolutions' (CUP 1979) and Open Library CUP 1979 ISBN both match."
+ },
+ {
+  "key": "WB3VDD7C",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780029210703",
+  "edition_year": 1965,
+  "original_year": null,
+  "note": "Auto DOI 10.1007/978-3-476-05728-0_21309-1 is a 2020 KLL encyclopedia entry, rejected. ISBN is 'Reader in Bureaucracy' (Free Press, 1965 printing); no DOI for the 1952 chapter (the 1944 PAR original is 10.2307/972435). Zotero creators need fixing."
+ },
+ {
+  "key": "QYBY3Z9P",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9780435828127",
+  "edition_year": 1970,
+  "original_year": null,
+  "note": "Auto DOI 10.4135/9781452229249 is Donaldson's Contingency Theory, rejected. Heinemann Educational 1970 ISBN of 'The theory of organisations' by D. Silverman, confirmed by Open Library."
+ },
+ {
+  "key": "D8QCAZQ4",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a 2001 Elsevier encyclopedia entry on Parsons, rejected. No Crossref or OpenAlex record for the 1987 Sciulli manuscript."
+ },
+ {
+  "key": "J8PHZYX5",
+  "status": "confirmed",
+  "doi": "10.1007/978-1-349-15388-6_1",
+  "isbn": "9780333105214",
+  "edition_year": 1970,
+  "original_year": null,
+  "note": "Crossref chapter 'Concept and Theory Formation in the Social Sciences' in 'Sociological Theory and Philosophical Analysis' (Macmillan 1970); Open Library ISBN matches."
+ },
+ {
+  "key": "R9IWGQEN",
+  "status": "confirmed",
+  "doi": "10.1007/978-94-017-6854-2",
+  "isbn": null,
+  "edition_year": 1964,
+  "original_year": null,
+  "note": "Crossref book record 'Collected Papers' (Schutz, ed. Brodersen, Phaenomenologica, 1964), consistent with vol. II. No ISBN found."
+ },
+ {
+  "key": "S7HZG9MT",
+  "status": "corrected",
+  "doi": null,
+  "isbn": "9789024730469",
+  "edition_year": 1972,
+  "original_year": null,
+  "note": "Auto DOI 10.1016/0001-8708(79)90050-1 is a Stein combinatorics article, rejected. Open Library: 'Collected Papers I' (Phaenomenologica, Springer/Nijhoff, 1972 printing) of the same work."
+ },
+ {
+  "key": "JFQ99CRM",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is an Oxford Handbook chapter on Schattschneider, rejected. No Open Library edition with ISBN for the 1960 Holt book."
+ },
+ {
+  "key": "283P7VG3",
+  "status": "not_found",
+  "doi": null,
+  "isbn": null,
+  "edition_year": null,
+  "original_year": null,
+  "note": "Auto DOI is a Public Health 1987 article, unrelated, rejected. Sydney Morning Herald newspaper piece has no DOI and no record was found."
+ }
+]

@@ -1,0 +1,881 @@
+[
+ {
+  "key": "2SKW9WWF",
+  "title": "Reframing Privacy Through Power: A Relational Power Framework of Privacy for HCI Research",
+  "authors": [
+   "Lawo, Dennis",
+   "Berkholz, Jenny",
+   "Stevens, Gunnar"
+  ],
+  "year": 2026,
+  "doi": "10.1145/3800645.3812905",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "9I4757G9",
+  "title": "API Governance: The Case of Facebook’s Evolution",
+  "authors": [
+   "van der Vlist, Fernando N.",
+   "Helmond, Anne",
+   "Burkhardt, Marcus",
+   "Seitz, Tatjana"
+  ],
+  "year": 2022,
+  "doi": "10.1177/20563051221086228",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "R92FC6FK",
+  "title": "Global Miscommunication in Privacy Requirements Engineering: Legal Experts’ Experiences Collaborating with Software Engineers",
+  "authors": [
+   "Negri-Ribalta, Claudia",
+   "Visescu, Ioana",
+   "Frank, Muriel-Larissa",
+   "Sergeeva, Anastasia",
+   "Simon, Alberto García",
+   "Noel, Rene",
+   "Chamorro, Lorena Sánchez"
+  ],
+  "year": 2026,
+  "doi": null,
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "H79URSEL",
+  "title": "Detecting and Measuring Client- and Server-Side Google Tag Manager and its Tags in 80K Websites",
+  "authors": [
+   "Mertens, Gilles",
+   "Bielova, Nataliia",
+   "Roca, Vincent",
+   "Bouhoula, Ahmed",
+   "Akassab, Marouanne"
+  ],
+  "year": 2026,
+  "doi": null,
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5QRTRGAB",
+  "title": "Equity by Design: A New HCI Method for Surfacing Inclusivity Issues in Remote Collaboration Software",
+  "authors": [
+   "Mason, Shandler A.",
+   "Kuttal, Sandeep Kaur"
+  ],
+  "year": 2026,
+  "doi": "10.1145/3800645.3813052",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "6A99P4RN",
+  "title": "Wealth and Power: Philosophical Perspectives",
+  "authors": [
+   "Bennett, Michael",
+   "Brouwer, Huub",
+   "Claassen, Rutger"
+  ],
+  "year": 2022,
+  "doi": "10.4324/9781003173632",
+  "type": "book",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "JYJHQNVL",
+  "title": "Infrastructural platform violence: How women and queer journalists and activists in Lebanon experience abuse on WhatsApp",
+  "authors": [
+   "Riedl, Martin J",
+   "El-Masri, Azza",
+   "Trauthig, Inga K",
+   "Woolley, Samuel C"
+  ],
+  "year": 2025,
+  "doi": "10.1177/14614448241248372",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "infrastructural power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "VYK85GQ5",
+  "title": "\"There Should Be More Than One Voice in A Healthy Society\": Infrastructural Violence and Totalitarian Computing in China",
+  "authors": [
+   "Li, Zi",
+   "Nardi, Bonnie"
+  ],
+  "year": 2021,
+  "doi": "10.1145/3476070",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "7IKL5L9G",
+  "title": "A Cross-Country Analysis of GDPR Cookie Banners and Flexible Methods For Scraping Them",
+  "authors": [
+   "Nouwens, Midas",
+   "Kristensen, Janus Bager",
+   "Maalt, Kristjan",
+   "Bagge, Rolf"
+  ],
+  "year": 2025,
+  "doi": "10.1145/3706598.3713648",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "XWJSNKTV",
+  "title": "A Systematic Literature Review of Infrastructure Studies in SIGCHI",
+  "authors": [
+   "Lyu, Yao",
+   "Cai, Jie",
+   "Carroll, John M."
+  ],
+  "year": 2025,
+  "doi": "10.48550/arXiv.2504.09612",
+  "type": "preprint",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "JAEVYMHV",
+  "title": "Capital and CHI: Technological Capture and How It Structures CHI Research",
+  "authors": [
+   "Gilbert, Eric"
+  ],
+  "year": 2025,
+  "doi": "10.48550/arXiv.2501.14092",
+  "type": "preprint",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "2VEJN9QH",
+  "title": "Regulating 'Platform Power'",
+  "authors": [
+   "Lynskey, Orla"
+  ],
+  "year": 2017,
+  "doi": "10.2139/ssrn.2921021",
+  "type": "preprint",
+  "subcollections": [
+   "power",
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "YLKCBJ9E",
+  "title": "Data Security on the Ground: Investigating Technical and Legal Requirements under the GDPR",
+  "authors": [
+   "Marjanov, Tina",
+   "Konstantinou, Maria",
+   "Jóźwiak, Magdalena",
+   "Spagnuelo, Dayana"
+  ],
+  "year": 2023,
+  "doi": "10.56553/popets-2023-0088",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "L59TFMJX",
+  "title": "“Technically speaking I’m at the top of the hierarchy”: How System Administrators Think About Power",
+  "authors": [
+   "Weinberger, Lydia",
+   "Lämmle, Carolin",
+   "Hammer, Andreas",
+   "Eichenmüller, Christian",
+   "Gassmann, Freya",
+   "Benenson, Zinaida"
+  ],
+  "year": 2026,
+  "doi": "10.1145/3772318.3791380",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5SFWEQ3K",
+  "title": "The Ethnography of Infrastructure",
+  "authors": [
+   "Star, Susan Leigh"
+  ],
+  "year": 1999,
+  "doi": "10.1177/00027649921955326",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "infrastructural power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "8C6EFGVM",
+  "title": "Power in Transition: An Interdisciplinary Framework to Study Power in Relation to Structural Change",
+  "authors": [
+   "Avelino, Flor",
+   "Rotmans, Jan"
+  ],
+  "year": 2009,
+  "doi": "10.1177/1368431009349830",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "CD35LPMH",
+  "title": "Grappling with “Data Power”: Normative Nudges from Data Protection and Privacy",
+  "authors": [
+   "Lynskey, Orla"
+  ],
+  "year": 2019,
+  "doi": "10.1515/til-2019-0007",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "7IVHJJK6",
+  "title": "Towards Smarter Regulation in the Areas of Competition, Data Protection and Consumer Law: Why Greater Power Should Come with Greater Responsibility",
+  "authors": [
+   "Graef, Inge",
+   "van Berlo, Sean"
+  ],
+  "year": 2021,
+  "doi": "10.1017/err.2020.92",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "MWCFJ27J",
+  "title": "Theories of power and social change. Power contestations and their implications for research on social change and innovation",
+  "authors": [
+   "Avelino, Flor"
+  ],
+  "year": 2021,
+  "doi": "10.1080/2158379X.2021.1875307",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "UQVVKC6F",
+  "title": "The Circularity of Consent in the DMA: A Close Look into the Prejudiced Substance of Articles 5(2) and 6(10)",
+  "authors": [
+   "Ribera Martínez, Alba"
+  ],
+  "year": 2022,
+  "doi": "10.2139/ssrn.4643462",
+  "type": "preprint",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "3ZVQLBHB",
+  "title": "Understanding accountability in algorithmic supply chains",
+  "authors": [
+   "Cobbe, Jennifer",
+   "Veale, Michael",
+   "Singh, Jatinder"
+  ],
+  "year": 2023,
+  "doi": "10.1145/3593013.3594073",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "R3EJISTM",
+  "title": "A typology of platform power and its regulation",
+  "authors": [
+   "Graef, Inge",
+   "Bostoen, Friso"
+  ],
+  "year": 2026,
+  "doi": "10.1080/1369118X.2025.2512972",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5BLN39K9",
+  "title": "A Relational Turn for Data Protection?",
+  "authors": [
+   "Richards, Neil",
+   "Hartzog, Woodrow"
+  ],
+  "year": 2020,
+  "doi": "10.21552/edpl/2020/4/5",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "8UBSED2J",
+  "title": "Power-Dependence Relations",
+  "authors": [
+   "Emerson, Richard M."
+  ],
+  "year": null,
+  "doi": null,
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "classic power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "UGKPBJGY",
+  "title": "The PET Paradox: How Amazon Instrumentalises PETs in Sidewalk to Entrench Its Infrastructural Power",
+  "authors": [
+   "van Gend, Thijmen",
+   "Bertulfo, Donald Jay",
+   "Gürses, Seda"
+  ],
+  "year": 2026,
+  "doi": "10.56553/popets-2026-0163",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "GF58GYBB",
+  "title": "Engineering infrastructural power over software production: the case of software-as-a-service",
+  "authors": [
+   "Bertulfo, Donald Jay",
+   "Gürses, Seda"
+  ],
+  "year": 2026,
+  "doi": "10.1080/1369118X.2026.2676635",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "RWYVRZCP",
+  "title": "The Many Shades of Clouds: How Law Fails (Us) in Seeing Power in the Digital Economy",
+  "authors": [
+   "Terzis, Petros",
+   "Mittal, Anushka",
+   "van Hoboken, Joris"
+  ],
+  "year": null,
+  "doi": "10.1111/rego.70149",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "533IQCYR",
+  "title": "Reframing platform power",
+  "authors": [
+   "van Dijck, José",
+   "Nieborg, David",
+   "Poell, Thomas"
+  ],
+  "year": 2019,
+  "doi": "10.14763/2019.2.1414",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "3UC8JF9C",
+  "title": "How partners mediate platform power: Mapping business and data partnerships in the social media ecosystem",
+  "authors": [
+   "van der Vlist, Fernando N",
+   "Helmond, Anne"
+  ],
+  "year": 2021,
+  "doi": "10.1177/20539517211025061",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "VSXUMV4K",
+  "title": "Follow the Data! A Strategy for Tracing Infrastructural Power",
+  "authors": [
+   "Flensburg, Sofie",
+   "Lai, Signe Sophus"
+  ],
+  "year": 2023,
+  "doi": "10.17645/mac.v11i2.6464",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "TFMG6CFR",
+  "title": "Dynamics of Corporate Governance Beyond Ownership in AI",
+  "authors": [],
+  "year": null,
+  "doi": null,
+  "type": "webpage",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "UWDEECCC",
+  "title": "Big tech, knowledge predation and the implications for development",
+  "authors": [
+   "Rikap, Cecilia",
+   "Lundvall, Bengt-Åke"
+  ],
+  "year": 2022,
+  "doi": "10.1080/2157930X.2020.1855825",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "WH88RAQI",
+  "title": "Messaging Interoperability: WhatsApp enables third-party chats for users in Europe",
+  "authors": [
+   "Meta"
+  ],
+  "year": 2025,
+  "doi": null,
+  "type": "blogPost",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "N8JCSANG",
+  "title": "Mapping the Democratization of AI on GitHub",
+  "authors": [
+   "Burkhardt, Marcus"
+  ],
+  "year": null,
+  "doi": null,
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "training programs"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "NR6PE48S",
+  "title": "Bit by (Twitch) Bit: “Platform Capture” and the Evolution of Digital Platforms",
+  "authors": [
+   "Partin, William Clyde"
+  ],
+  "year": 2020,
+  "doi": "10.1177/2056305120933981",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "EMQH8QJG",
+  "title": "Learning machine learning: On the political economy of big tech's online AI courses",
+  "authors": [
+   "Luchs, Inga",
+   "Apprich, Clemens",
+   "Broersma, Marcel"
+  ],
+  "year": 2023,
+  "doi": "10.1177/20539517231153806",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "training programs"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "8KJ28NNB",
+  "title": "Big AI: Cloud infrastructure dependence and the industrialisation of artificial intelligence",
+  "authors": [
+   "van der Vlist, Fernando",
+   "Helmond, Anne",
+   "Ferrari, Fabian"
+  ],
+  "year": 2024,
+  "doi": "10.1177/20539517241232630",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "training programs",
+   "infrastructural power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "JKE2I2YF",
+  "title": "Rethinking data and rebalancing digital power",
+  "authors": [
+   "Ada Lovelace Institute"
+  ],
+  "year": 2022,
+  "doi": null,
+  "type": "attachment",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "K7CKL63N",
+  "title": "Misabstraction in Sociotechnical Systems",
+  "authors": [
+   "de Troya, Íñigo",
+   "Kernahan, Jacqueline",
+   "Doorn, Neelke",
+   "Dignum, Virginia",
+   "Dobbe, Roel"
+  ],
+  "year": 2025,
+  "doi": "10.1145/3715275.3732122",
+  "type": "conferencePaper",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "U66YSF3L",
+  "title": "Regulating Big Tech expansionism? Sphere transgressions and the limits of Europe’s digital regulatory strategy",
+  "authors": [
+   "Sharon, Tamar",
+   "Gellert, Raphaël"
+  ],
+  "year": 2024,
+  "doi": "10.1080/1369118X.2023.2246526",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "Y245QIIB",
+  "title": "Privacy and Power: Computer Databases and Metaphors for Information Privacy",
+  "authors": [
+   "Solove, Daniel J."
+  ],
+  "year": 2001,
+  "doi": "10.2139/ssrn.248300",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5HSC3YEN",
+  "title": "Algorithmic Reason: The New Government of Self and Other",
+  "authors": [
+   "Aradau, Claudia",
+   "Blanke, Tobias"
+  ],
+  "year": 2022,
+  "doi": "10.1093/oso/9780192859624.001.0001",
+  "type": "book",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "SI2UUXBS",
+  "title": "Power: A Radical View",
+  "authors": [
+   "Lukes, Steven"
+  ],
+  "year": 2004,
+  "doi": null,
+  "type": "book",
+  "subcollections": [
+   "power",
+   "classic power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "YFAWQ44C",
+  "title": "The Network Society Revisited",
+  "authors": [
+   "Castells, Manuel"
+  ],
+  "year": 2023,
+  "doi": "10.1177/00027642221092803",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "H8WRWJQZ",
+  "title": "“Computer Says No!”: The Impact of Automation on the Discretionary Power of Public Officers",
+  "authors": [
+   "Abu Elyounes, Doaa"
+  ],
+  "year": null,
+  "doi": null,
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "MRHT6VVC",
+  "title": "Data Colonialism: Rethinking Big Data’s Relation to the Contemporary Subject",
+  "authors": [
+   "Couldry, Nick",
+   "Mejias, Ulises A."
+  ],
+  "year": 2019,
+  "doi": "10.1177/1527476418796632",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "B26F5G5M",
+  "title": "The Power Chapter (Data Feminism, ch. 1)",
+  "authors": [
+   "D'Ignazio, Catherine",
+   "Klein, Lauren"
+  ],
+  "year": 2020,
+  "doi": null,
+  "type": "bookSection",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "QY5YFM67",
+  "title": "Power imbalance between digital labour platforms and platform workers: How can competition law respond?",
+  "authors": [
+   "Van Rosmalen, Gabriël Lucas Hendrik"
+  ],
+  "year": 2026,
+  "doi": "10.33540/3879",
+  "type": "thesis",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "LDVMWKLZ",
+  "title": "The Ethnography of Infrastructure",
+  "authors": [
+   "Star, Susan Leigh"
+  ],
+  "year": 1999,
+  "doi": "10.1177/00027649921955326",
+  "type": "journalArticle",
+  "subcollections": [
+   "infrastructural power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "AJSQSCMV",
+  "title": "Introducing Metric Power",
+  "authors": [
+   "Beer, David"
+  ],
+  "year": 2016,
+  "doi": "10.1057/978-1-137-55649-3_1",
+  "type": "bookSection",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "ZVAAR6UE",
+  "title": "Manifesto for a Relational Sociology",
+  "authors": [
+   "Emirbayer, Mustafa"
+  ],
+  "year": 1997,
+  "doi": "10.1086/231209",
+  "type": "journalArticle",
+  "subcollections": [
+   "classic power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "ZDKPD64T",
+  "title": "Introduction to the special issue on Locating and theorising platform power",
+  "authors": [
+   "Nieborg, David",
+   "Poell, Thomas",
+   "Caplan, Robyn",
+   "van Dijck, José"
+  ],
+  "year": 2024,
+  "doi": "10.14763/2024.2.1781",
+  "type": "journalArticle",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "9HUCHXK2",
+  "title": "If...Then: Algorithmic Power and Politics",
+  "authors": [
+   "Bucher, Taina"
+  ],
+  "year": 2018,
+  "doi": "10.1093/oso/9780190493028.001.0001",
+  "type": "book",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "WLBGFS8J",
+  "title": "We Are Data: Algorithms and the Making of Our Digital Selves",
+  "authors": [
+   "Cheney-Lippold, John"
+  ],
+  "year": 2017,
+  "doi": null,
+  "type": "book",
+  "subcollections": [
+   "power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5RKX9NU3",
+  "title": "Are We All Amazon Primed? Consumers and the Politics of Platform Power",
+  "authors": [
+   "Culpepper, Pepper D.",
+   "Thelen, Kathleen"
+  ],
+  "year": 2020,
+  "doi": "10.1177/0010414019852687",
+  "type": "journalArticle",
+  "subcollections": [
+   "power",
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "ASUH772N",
+  "title": "Monitoring infrastructural power: Methodological challenges in studying mobile infrastructures for datafication",
+  "authors": [
+   "Lomborg, Stine",
+   "Sick, Kristian",
+   "Flensburg, Sofie",
+   "Sophus Lai, Signe"
+  ],
+  "year": 2024,
+  "doi": "10.14763/2024.2.1763",
+  "type": "journalArticle",
+  "subcollections": [
+   "infrastructural power"
+  ],
+  "library": "vidi (group 6719726)"
+ },
+ {
+  "key": "5X5HD2ZQ",
+  "title": "Platform power in AI: The evolution of cloud infrastructures in the political economy of artificial intelligence",
+  "authors": [
+   "Luitse, Dieuwertje"
+  ],
+  "year": 2024,
+  "doi": "10.14763/2024.2.1768",
+  "type": "journalArticle",
+  "subcollections": [
+   "platform power"
+  ],
+  "library": "vidi (group 6719726)"
+ }
+]
